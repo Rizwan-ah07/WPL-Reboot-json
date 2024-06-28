@@ -1,0 +1,239 @@
+{
+    "leagues": [
+      {
+        "id": 1,
+        "name": "Premier League",
+        "country": "England",
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/f/f2/Premier_League_Logo.svg"
+      },
+      {
+        "id": 2,
+        "name": "La Liga",
+        "country": "Spain",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/LaLiga_EA_Sports_2023_Horizontal_Logo.svg"
+      },
+      {
+        "id": 3,
+        "name": "Serie A",
+        "country": "Italy",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Serie_A_logo_2022.svg"
+      },
+      {
+        "id": 4,
+        "name": "Bundesliga",
+        "country": "Germany",
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/d/df/Bundesliga_logo_%282017%29.svg"
+      },
+      {
+        "id": 5,
+        "name": "Ligue 1",
+        "country": "France",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Ligue_1_2024_Logo.png"
+      },
+      {
+        "id": 6,
+        "name": "Primeira Liga",
+        "country": "Portugal",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Liga_Portugal_Betclic_2023.png"
+      },
+      {
+        "id": 7,
+        "name": "Eredivisie",
+        "country": "Netherlands",
+        "image_url": "https://en.wikipedia.org/wiki/Eredivisie#/media/File:Eredivisie_nieuw_logo_2017-.svg"
+      },
+      {
+        "id": 8,
+        "name": "Russian Premier League",
+        "country": "Russia",
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/a/aa/Russian_Premier_League.svg"
+      },
+      {
+        "id": 9,
+        "name": "Belgian Pro League",
+        "country": "Belgium",
+        "image_url": "https://yt3.googleusercontent.com/ol4aCnqZ5DWBrUVreXg5OQicBNBvrVvZjrGz0A4CS8fdLhXkA9mgVgcQj7sVJ_-8TdzeOU_U=s900-c-k-c0x00ffffff-no-rj"
+      },
+      {
+        "id": 10,
+        "name": "Scottish Premiership",
+        "country": "Scotland",
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/c/c8/Ladbrokes_SPFL.png"
+      },
+      {
+        "id": 11,
+        "name": "Super Lig",
+        "country": "Turkey",
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/3/3a/Super_Lig_logo.svg"
+      },
+      {
+        "id": 12,
+        "name": "Ukrainian Premier League",
+        "country": "Ukraine",
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/7/77/Ukrainian_Premier_League_logo.svg"
+      },
+      {
+        "id": 13,
+        "name": "Brasileirão Serie A",
+        "country": "Brazil",
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/d/d0/Campeonato_Brasileiro_S%C3%A9rie_A_logo.png"
+      },
+      {
+        "id": 14,
+        "name": "Argentine Primera División",
+        "country": "Argentina",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Asociaci%C3%B3n_del_F%C3%BAtbol_Argentino_%28logo%29.svg"
+      },
+      {
+        "id": 15,
+        "name": "Primera División",
+        "country": "Chile",
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/b/b4/Primera_Divisi%C3%B3n_Chile_Logo.png"
+      },
+      {
+        "id": 16,
+        "name": "Categoría Primera A",
+        "country": "Colombia",
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/e/e1/Dimayor_%28Colombia%29.png"
+      },
+      {
+        "id": 17,
+        "name": "Primera División",
+        "country": "Uruguay",
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/7/71/Uruguayan_Primera_Divisi%C3%B3n_logo.png"
+      },
+      {
+        "id": 18,
+        "name": "Primera División",
+        "country": "Paraguay",
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/3/35/Primera_Division_Paraguay_logo.png"
+      },
+      {
+        "id": 19,
+        "name": "Primera División",
+        "country": "Peru",
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/e/e8/Peruvian_Primera_Divisi%C3%B3n_logo.png"
+      },
+      {
+        "id": 20,
+        "name": "Major League Soccer (MLS)",
+        "country": "USA/Canada",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/7/76/MLS_crest_logo_RGB_gradient.svg"
+      },
+      {
+        "id": 21,
+        "name": "Liga MX",
+        "country": "Mexico",
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/2/24/Liga_MX_logo.svg"
+      },
+      {
+        "id": 22,
+        "name": "Primera División de Costa Rica",
+        "country": "Costa Rica",
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/5/5b/Liga_FPD.png"
+      },
+      {
+        "id": 23,
+        "name": "Liga Nacional de Fútbol de Guatemala",
+        "country": "Guatemala",
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/6/6b/Guatemalan_Liga_Nacional_logo.png"
+      },
+      {
+        "id": 24,
+        "name": "Honduran Liga Nacional",
+        "country": "Honduras",
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/5/57/Honduran_Liga_Nacional_logo.png"
+      },
+      {
+        "id": 25,
+        "name": "Chinese Super League",
+        "country": "China",
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/e/e8/Chinese_Super_League.png"
+      },
+      {
+        "id": 26,
+        "name": "J1 League",
+        "country": "Japan",
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/3/3d/J_League_logo.png"
+      },
+      {
+        "id": 27,
+        "name": "K League 1",
+        "country": "South Korea",
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/0/0d/K_League_1_logo.png"
+      },
+      {
+        "id": 28,
+        "name": "Saudi Professional League",
+        "country": "Saudi Arabia",
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/3/30/Saudi_Pro_League_logo.png"
+      },
+      {
+        "id": 29,
+        "name": "Iran Pro League",
+        "country": "Iran",
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/2/2f/Persian_Gulf_Pro_League_logo.png"
+      },
+      {
+        "id": 30,
+        "name": "Qatar Stars League",
+        "country": "Qatar",
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/f/f2/Qatar_Stars_League_logo.png"
+      },
+      {
+        "id": 31,
+        "name": "UAE Pro League",
+        "country": "United Arab Emirates",
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/2/21/UAE_Pro_League_logo.png"
+      },
+      {
+        "id": 32,
+        "name": "Egyptian Premier League",
+        "country": "Egypt",
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/e/e3/Egyptian_Premier_League_logo.png"
+      },
+      {
+        "id": 33,
+        "name": "Botola Pro",
+        "country": "Morocco",
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/5/52/Botola_Pro_logo.png"
+      },
+      {
+        "id": 34,
+        "name": "Tunisian Ligue Professionnelle 1",
+        "country": "Tunisia",
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/9/9a/Tunisian_Ligue_Professionnelle_1_logo.png"
+      },
+      {
+        "id": 35,
+        "name": "Ghana Premier League",
+        "country": "Ghana",
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/6/67/Ghana_Premier_League_logo.png"
+      },
+      {
+        "id": 36,
+        "name": "South African Premier Division",
+        "country": "South Africa",
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/e/eb/South_African_Premier_Division_logo.png"
+      },
+      {
+        "id": 37,
+        "name": "Nigeria Professional Football League",
+        "country": "Nigeria",
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/c/cc/Nigeria_Professional_Football_League_logo.png"
+      },
+      {
+        "id": 38,
+        "name": "A-League",
+        "country": "Australia",
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/3/36/A-League_logo.png"
+      },
+      {
+        "id": 39,
+        "name": "New Zealand Football Championship",
+        "country": "New Zealand",
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/7/79/New_Zealand_Football_Championship_logo.png"
+      }
+    ]
+  }
+  
