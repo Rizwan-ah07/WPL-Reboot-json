@@ -4,8 +4,130 @@
         "id": 1,
         "name": "Premier League",
         "country": "England",
-        "image_url": "https://upload.wikimedia.org/wikipedia/en/f/f2/Premier_League_Logo.svg"
-      },
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/f/f2/Premier_League_Logo.svg",
+        "clubs": [
+            {
+                "id": 1,
+                "name": "Manchester United",
+                "image_url": "https://upload.wikimedia.org/wikipedia/en/7/7a/Manchester_United_FC_crest.svg",
+                "players": []
+              },
+              {
+                "id": 2,
+                "name": "Liverpool",
+                "image_url": "https://upload.wikimedia.org/wikipedia/en/0/0c/Liverpool_FC.svg",
+                "players": []
+              },
+              {
+                "id": 3,
+                "name": "Chelsea",
+                "image_url": "https://upload.wikimedia.org/wikipedia/en/c/cc/Chelsea_FC.svg",
+                "players": []
+              },
+              {
+                "id": 4,
+                "name": "Arsenal",
+                "image_url": "https://upload.wikimedia.org/wikipedia/en/5/53/Arsenal_FC.svg",
+                "players": []
+              },
+              {
+                "id": 5,
+                "name": "Manchester City",
+                "image_url": "https://upload.wikimedia.org/wikipedia/en/e/eb/Manchester_City_FC_badge.svg",
+                "players": []
+              },
+              {
+                "id": 6,
+                "name": "Tottenham Hotspur",
+                "image_url": "https://upload.wikimedia.org/wikipedia/en/b/b4/Tottenham_Hotspur.svg",
+                "players": []
+              },
+              {
+                "id": 7,
+                "name": "Leicester City",
+                "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/Leicester_City_crest.svg/800px-Leicester_City_crest.svg.png",
+                "players": []
+              },
+              {
+                "id": 8,
+                "name": "Everton",
+                "image_url": "https://upload.wikimedia.org/wikipedia/en/7/7c/Everton_FC_logo.svg",
+                "players": []
+              },
+              {
+                "id": 9,
+                "name": "West Ham United",
+                "image_url": "https://upload.wikimedia.org/wikipedia/en/c/c2/West_Ham_United_FC_logo.svg",
+                "players": []
+              },
+              {
+                "id": 10,
+                "name": "Aston Villa",
+                "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Aston_Villa_FC_new_crest.svg/1200px-Aston_Villa_FC_new_crest.svg.png",
+                "players": []
+              },
+              {
+                "id": 11,
+                "name": "Newcastle United",
+                "image_url": "https://upload.wikimedia.org/wikipedia/en/5/56/Newcastle_United_Logo.svg",
+                "players": []
+              },
+              {
+                "id": 12,
+                "name": "Southampton",
+                "image_url": "https://upload.wikimedia.org/wikipedia/en/c/c9/FC_Southampton.svg",
+                "players": []
+              },
+              {
+                "id": 13,
+                "name": "Crystal Palace",
+                "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/a/a2/Crystal_Palace_FC_logo_%282022%29.svg/175px-Crystal_Palace_FC_logo_%282022%29.svg.png",
+                "players": []
+              },
+              {
+                "id": 14,
+                "name": "Brighton & Hove Albion",
+                "image_url": "https://upload.wikimedia.org/wikipedia/en/f/fd/Brighton_%26_Hove_Albion_logo.svg",
+                "players": []
+              },
+              {
+                "id": 15,
+                "name": "Wolverhampton Wanderers",
+                "image_url": "https://upload.wikimedia.org/wikipedia/en/f/fc/Wolverhampton_Wanderers.svg",
+                "players": []
+              },
+              {
+                "id": 16,
+                "name": "Leeds United",
+                "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/5/54/Leeds_United_F.C._logo.svg/1200px-Leeds_United_F.C._logo.svg.png",
+                "players": []
+              },
+              {
+                "id": 17,
+                "name": "Burnley",
+                "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Burnley_FC_Logo.svg/1200px-Burnley_FC_Logo.svg.png",
+                "players": []
+              },
+              {
+                "id": 18,
+                "name": "Fulham",
+                "image_url": "https://upload.wikimedia.org/wikipedia/en/e/eb/Fulham_FC_%28shield%29.svg",
+                "players": []
+              },
+              {
+                "id": 19,
+                "name": "Brentford",
+                "image_url": "https://upload.wikimedia.org/wikipedia/en/2/2a/Brentford_FC_crest.svg",
+                "players": []
+              },
+              {
+                "id": 20,
+                "name": "Norwich City",
+                "image_url": "https://upload.wikimedia.org/wikipedia/en/1/17/Norwich_City_FC_logo.svg",
+                "players": []
+              }
+            ]
+        },
       {
         "id": 2,
         "name": "La Liga",
