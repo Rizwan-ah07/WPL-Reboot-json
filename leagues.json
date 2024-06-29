@@ -4038,250 +4038,3748 @@
               "jersey_number": 23
             }
           ]
-        },
-      {
-      "id": 4,
-      "name": "Bundesliga",
-      "country": "Germany",
-      "image_url": "https://upload.wikimedia.org/wikipedia/en/d/df/Bundesliga_logo_%282017%29.svg",
-      "clubs": [
-        {
-          "id": 1,
-          "name": "Bayern Munich",
-          "image_url": "https://upload.wikimedia.org/wikipedia/en/1/1f/FC_Bayern_München_logo_%282017%29.svg",
-          "players": []
-        },
-        {
-          "id": 2,
-          "name": "Borussia Dortmund",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Borussia_Dortmund_logo.svg",
-          "players": []
-        },
-        {
-          "id": 3,
-          "name": "RB Leipzig",
-          "image_url": "https://upload.wikimedia.org/wikipedia/en/0/04/RB_Leipzig_2014_logo.svg",
-          "players": []
-        },
-        {
-          "id": 4,
-          "name": "Bayer Leverkusen",
-          "image_url": "https://upload.wikimedia.org/wikipedia/en/6/6e/Bayer_04_Leverkusen_logo.svg",
-          "players": []
-        },
-        {
-          "id": 5,
-          "name": "Borussia Mönchengladbach",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Borussia_Mönchengladbach_logo.svg",
-          "players": []
-        },
-        {
-          "id": 6,
-          "name": "Wolfsburg",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Logo-VfL-Wolfsburg.svg",
-          "players": []
-        },
-        {
-          "id": 7,
-          "name": "Eintracht Frankfurt",
-          "image_url": "https://upload.wikimedia.org/wikipedia/en/0/04/Eintracht_Frankfurt_Logo.svg",
-          "players": []
-        },
-        {
-          "id": 8,
-          "name": "Hertha BSC",
-          "image_url": "https://upload.wikimedia.org/wikipedia/en/9/93/Hertha_BSC_Logo.svg",
-          "players": []
-        },
-        {
-          "id": 9,
-          "name": "Werder Bremen",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/be/SV-Werder-Bremen-Logo.svg",
-          "players": []
-        },
-        {
-          "id": 10,
-          "name": "Schalke 04",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/FC_Schalke_04_Logo.svg",
-          "players": []
-        },
-        {
-          "id": 11,
-          "name": "Mainz 05",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/1_FSV_Mainz_05_Logo.svg",
-          "players": []
-        },
-        {
-          "id": 12,
-          "name": "Augsburg",
-          "image_url": "https://upload.wikimedia.org/wikipedia/en/d/d4/FC_Augsburg_logo.svg",
-          "players": []
-        },
-        {
-          "id": 13,
-          "name": "Freiburg",
-          "image_url": "https://upload.wikimedia.org/wikipedia/en/f/f1/SC_Freiburg_logo.svg",
-          "players": []
-        },
-        {
-          "id": 14,
-          "name": "Union Berlin",
-          "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/1._FC_Union_Berlin_logo.svg",
-          "players": []
-        },
-        {
-          "id": 15,
-          "name": "Stuttgart",
-          "image_url": "https://upload.wikimedia.org/wikipedia/en/1/10/VfB_Stuttgart_Logo_2014.svg",
-          "players": []
-        },
-        {
-          "id": 16,
-          "name": "Cologne",
-          "image_url": "https://upload.wikimedia.org/wikipedia/en/7/77/FC_Cologne_logo.svg",
-          "players": []
-        },
-        {
-          "id": 17,
-          "name": "Hoffenheim",
-          "image_url": "https://upload.wikimedia.org/wikipedia/en/e/e7/TSG_1899_Hoffenheim_Logo.svg",
-          "players": []
-        },
-        {
-          "id": 18,
-          "name": "Bochum",
-          "image_url": "https://upload.wikimedia.org/wikipedia/en/6/62/VfL_Bochum_logo.svg",
-          "players": []
         }
       ]
-    }
-  ]
-},
-    {
-      "id": 5,
-      "name": "Ligue 1",
-      "country": "France",
-      "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Ligue_1_2024_Logo.png",
-      "clubs": [
-        {
-          "id": 1,
-          "name": "Paris Saint-Germain",
-          "image_url": "https://upload.wikimedia.org/wikipedia/en/a/a7/Paris_Saint-Germain_F.C..svg",
-          "players": []
-        },
-        {
-          "id": 2,
-          "name": "Olympique de Marseille",
-          "image_url": "https://upload.wikimedia.org/wikipedia/en/6/68/Olympique_Marseille_logo.svg",
-          "players": []
-        },
-        {
-          "id": 3,
-          "name": "Lyon",
-          "image_url": "https://upload.wikimedia.org/wikipedia/en/c/c6/Olympique_Lyonnais.svg",
-          "players": []
-        },
+    },
         {
           "id": 4,
-          "name": "Monaco",
-          "image_url": "https://upload.wikimedia.org/wikipedia/en/b/ba/AS_Monaco_FC.svg",
-          "players": []
+          "name": "Bundesliga",
+          "country": "Germany",
+          "image_url": "https://upload.wikimedia.org/wikipedia/en/d/df/Bundesliga_logo_%282017%29.svg",
+          "clubs": [
+            {
+              "id": 1,
+              "name": "Bayern Munich",
+              "image_url": "https://upload.wikimedia.org/wikipedia/en/1/1f/FC_Bayern_München_logo_%282017%29.svg",
+              "players": [
+                {
+                  "name": "Manuel Neuer",
+                  "position": "Goalkeeper",
+                  "jersey_number": 1
+                },
+                {
+                  "name": "Benjamin Pavard",
+                  "position": "Right Back",
+                  "jersey_number": 5
+                },
+                {
+                  "name": "Dayot Upamecano",
+                  "position": "Centre Back",
+                  "jersey_number": 2
+                },
+                {
+                  "name": "Lucas Hernández",
+                  "position": "Centre Back",
+                  "jersey_number": 21
+                },
+                {
+                  "name": "Alphonso Davies",
+                  "position": "Left Back",
+                  "jersey_number": 19
+                },
+                {
+                  "name": "Joshua Kimmich",
+                  "position": "Defensive Midfield",
+                  "jersey_number": 6
+                },
+                {
+                  "name": "Leon Goretzka",
+                  "position": "Central Midfield",
+                  "jersey_number": 18
+                },
+                {
+                  "name": "Thomas Müller",
+                  "position": "Attacking Midfield",
+                  "jersey_number": 25
+                },
+                {
+                  "name": "Kingsley Coman",
+                  "position": "Right Wing",
+                  "jersey_number": 11
+                },
+                {
+                  "name": "Leroy Sané",
+                  "position": "Left Wing",
+                  "jersey_number": 10
+                },
+                {
+                  "name": "Robert Lewandowski",
+                  "position": "Striker",
+                  "jersey_number": 9
+                },
+                {
+                  "name": "Sven Ulreich",
+                  "position": "Goalkeeper",
+                  "jersey_number": 26
+                },
+                {
+                  "name": "Niklas Süle",
+                  "position": "Centre Back",
+                  "jersey_number": 4
+                },
+                {
+                  "name": "Marc Roca",
+                  "position": "Central Midfield",
+                  "jersey_number": 22
+                },
+                {
+                  "name": "Serge Gnabry",
+                  "position": "Right Wing",
+                  "jersey_number": 7
+                },
+                {
+                  "name": "Jamal Musiala",
+                  "position": "Attacking Midfield",
+                  "jersey_number": 42
+                },
+                {
+                  "name": "Eric Maxim Choupo-Moting",
+                  "position": "Striker",
+                  "jersey_number": 13
+                },
+                {
+                  "name": "Michael Cuisance",
+                  "position": "Central Midfield",
+                  "jersey_number": 11
+                },
+                {
+                  "name": "Josip Stanišić",
+                  "position": "Right Back",
+                  "jersey_number": 44
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "name": "Borussia Dortmund",
+              "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Borussia_Dortmund_logo.svg",
+              "players": [
+                {
+                  "name": "Gregor Kobel",
+                  "position": "Goalkeeper",
+                  "jersey_number": 1
+                },
+                {
+                  "name": "Thomas Meunier",
+                  "position": "Right Back",
+                  "jersey_number": 24
+                },
+                {
+                  "name": "Mats Hummels",
+                  "position": "Centre Back",
+                  "jersey_number": 15
+                },
+                {
+                  "name": "Manuel Akanji",
+                  "position": "Centre Back",
+                  "jersey_number": 16
+                },
+                {
+                  "name": "Raphaël Guerreiro",
+                  "position": "Left Back",
+                  "jersey_number": 13
+                },
+                {
+                  "name": "Axel Witsel",
+                  "position": "Defensive Midfield",
+                  "jersey_number": 28
+                },
+                {
+                  "name": "Jude Bellingham",
+                  "position": "Central Midfield",
+                  "jersey_number": 22
+                },
+                {
+                  "name": "Marco Reus",
+                  "position": "Attacking Midfield",
+                  "jersey_number": 11
+                },
+                {
+                  "name": "Julian Brandt",
+                  "position": "Right Wing",
+                  "jersey_number": 19
+                },
+                {
+                  "name": "Thorgan Hazard",
+                  "position": "Left Wing",
+                  "jersey_number": 10
+                },
+                {
+                  "name": "Erling Haaland",
+                  "position": "Striker",
+                  "jersey_number": 9
+                },
+                {
+                  "name": "Marwin Hitz",
+                  "position": "Goalkeeper",
+                  "jersey_number": 35
+                },
+                {
+                  "name": "Emre Can",
+                  "position": "Central Midfield",
+                  "jersey_number": 23
+                },
+                {
+                  "name": "Dan-Axel Zagadou",
+                  "position": "Centre Back",
+                  "jersey_number": 5
+                },
+                {
+                  "name": "Mahmoud Dahoud",
+                  "position": "Central Midfield",
+                  "jersey_number": 8
+                },
+                {
+                  "name": "Giovanni Reyna",
+                  "position": "Right Wing",
+                  "jersey_number": 7
+                },
+                {
+                  "name": "Donyell Malen",
+                  "position": "Striker",
+                  "jersey_number": 21
+                },
+                {
+                  "name": "Youssoufa Moukoko",
+                  "position": "Striker",
+                  "jersey_number": 18
+                },
+                {
+                  "name": "Nico Schulz",
+                  "position": "Left Back",
+                  "jersey_number": 14
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "name": "RB Leipzig",
+              "image_url": "https://upload.wikimedia.org/wikipedia/en/0/04/RB_Leipzig_2014_logo.svg",
+              "players": [
+                {
+                  "name": "Peter Gulácsi",
+                  "position": "Goalkeeper",
+                  "jersey_number": 1
+                },
+                {
+                  "name": "Nordi Mukiele",
+                  "position": "Right Back",
+                  "jersey_number": 22
+                },
+                {
+                  "name": "Willi Orban",
+                  "position": "Centre Back",
+                  "jersey_number": 4
+                },
+                {
+                  "name": "Josko Gvardiol",
+                  "position": "Centre Back",
+                  "jersey_number": 32
+                },
+                {
+                  "name": "Angeliño",
+                  "position": "Left Back",
+                  "jersey_number": 3
+                },
+                {
+                  "name": "Kevin Kampl",
+                  "position": "Central Midfield",
+                  "jersey_number": 44
+                },
+                {
+                  "name": "Tyler Adams",
+                  "position": "Central Midfield",
+                  "jersey_number": 14
+                },
+                {
+                  "name": "Christopher Nkunku",
+                  "position": "Attacking Midfield",
+                  "jersey_number": 18
+                },
+                {
+                  "name": "Emil Forsberg",
+                  "position": "Right Wing",
+                  "jersey_number": 10
+                },
+                {
+                  "name": "Dani Olmo",
+                  "position": "Left Wing",
+                  "jersey_number": 25
+                },
+                {
+                  "name": "André Silva",
+                  "position": "Striker",
+                  "jersey_number": 33
+                },
+                {
+                  "name": "Josep Martínez",
+                  "position": "Goalkeeper",
+                  "jersey_number": 13
+                },
+                {
+                  "name": "Lukas Klostermann",
+                  "position": "Right Back",
+                  "jersey_number": 16
+                },
+                {
+                  "name": "Marcel Halstenberg",
+                  "position": "Centre Back",
+                  "jersey_number": 23
+                },
+                {
+                  "name": "Konrad Laimer",
+                  "position": "Central Midfield",
+                  "jersey_number": 27
+                },
+                {
+                  "name": "Dominik Szoboszlai",
+                  "position": "Attacking Midfield",
+                  "jersey_number": 17
+                },
+                {
+                  "name": "Brian Brobbey",
+                  "position": "Striker",
+                  "jersey_number": 21
+                },
+                {
+                  "name": "Hugo Novoa",
+                  "position": "Right Wing",
+                  "jersey_number": 8
+                },
+                {
+                  "name": "Benjamin Henrichs",
+                  "position": "Left Back",
+                  "jersey_number": 39
+                }
+              ]
+            },
+            {
+              "id": 4,
+              "name": "Bayer Leverkusen",
+              "image_url": "https://upload.wikimedia.org/wikipedia/en/6/6e/Bayer_04_Leverkusen_logo.svg",
+              "players": [
+                {
+                  "name": "Lukáš Hrádecký",
+                  "position": "Goalkeeper",
+                  "jersey_number": 1
+                },
+                {
+                  "name": "Jeremie Frimpong",
+                  "position": "Right Back",
+                  "jersey_number": 30
+                },
+                {
+                  "name": "Jonathan Tah",
+                  "position": "Centre Back",
+                  "jersey_number": 4
+                },
+                {
+                  "name": "Edmond Tapsoba",
+                  "position": "Centre Back",
+                  "jersey_number": 12
+                },
+                {
+                  "name": "Mitchel Bakker",
+                  "position": "Left Back",
+                  "jersey_number": 5
+                },
+                {
+                  "name": "Charles Aránguiz",
+                  "position": "Central Midfield",
+                  "jersey_number": 20
+                },
+                {
+                  "name": "Kerem Demirbay",
+                  "position": "Central Midfield",
+                  "jersey_number": 10
+                },
+                {
+                  "name": "Florian Wirtz",
+                  "position": "Attacking Midfield",
+                  "jersey_number": 27
+                },
+                {
+                  "name": "Moussa Diaby",
+                  "position": "Right Wing",
+                  "jersey_number": 19
+                },
+                {
+                  "name": "Amine Adli",
+                  "position": "Left Wing",
+                  "jersey_number": 31
+                },
+                {
+                  "name": "Patrik Schick",
+                  "position": "Striker",
+                  "jersey_number": 14
+                },
+                {
+                  "name": "Andrey Lunev",
+                  "position": "Goalkeeper",
+                  "jersey_number": 40
+                },
+                {
+                  "name": "Piero Hincapié",
+                  "position": "Centre Back",
+                  "jersey_number": 3
+                },
+                {
+                  "name": "Odilon Kossounou",
+                  "position": "Centre Back",
+                  "jersey_number": 6
+                },
+                {
+                  "name": "Julian Baumgartlinger",
+                  "position": "Central Midfield",
+                  "jersey_number": 15
+                },
+                {
+                  "name": "Paulinho",
+                  "position": "Right Wing",
+                  "jersey_number": 7
+                },
+                {
+                  "name": "Nadiem Amiri",
+                  "position": "Attacking Midfield",
+                  "jersey_number": 11
+                },
+                {
+                  "name": "Lucas Alario",
+                  "position": "Striker",
+                  "jersey_number": 13
+                },
+                {
+                  "name": "Exequiel Palacios",
+                  "position": "Central Midfield",
+                  "jersey_number": 25
+                }
+              ]
+            },
+            {
+              "id": 5,
+              "name": "Borussia Mönchengladbach",
+              "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Borussia_Mönchengladbach_logo.svg",
+              "players": [
+                {
+                  "name": "Yann Sommer",
+                  "position": "Goalkeeper",
+                  "jersey_number": 1
+                },
+                {
+                  "name": "Stefan Lainer",
+                  "position": "Right Back",
+                  "jersey_number": 18
+                },
+                {
+                  "name": "Matthias Ginter",
+                  "position": "Centre Back",
+                  "jersey_number": 28
+                },
+                {
+                  "name": "Nico Elvedi",
+                  "position": "Centre Back",
+                  "jersey_number": 30
+                },
+                {
+                  "name": "Ramy Bensebaini",
+                  "position": "Left Back",
+                  "jersey_number": 25
+                },
+                {
+                  "name": "Christoph Kramer",
+                  "position": "Defensive Midfield",
+                  "jersey_number": 6
+                },
+                {
+                  "name": "Florian Neuhaus",
+                  "position": "Central Midfield",
+                  "jersey_number": 32
+                },
+                {
+                  "name": "Jonas Hofmann",
+                  "position": "Attacking Midfield",
+                  "jersey_number": 23
+                },
+                {
+                  "name": "Patrick Herrmann",
+                  "position": "Right Wing",
+                  "jersey_number": 7
+                },
+                {
+                  "name": "Lars Stindl",
+                  "position": "Left Wing",
+                  "jersey_number": 13
+                },
+                {
+                  "name": "Marcus Thuram",
+                  "position": "Striker",
+                  "jersey_number": 10
+                },
+                {
+                  "name": "Tobias Sippel",
+                  "position": "Goalkeeper",
+                  "jersey_number": 21
+                },
+                {
+                  "name": "Joe Scally",
+                  "position": "Right Back",
+                  "jersey_number": 29
+                },
+                {
+                  "name": "Tony Jantschke",
+                  "position": "Centre Back",
+                  "jersey_number": 24
+                },
+                {
+                  "name": "Jordan Beyer",
+                  "position": "Centre Back",
+                  "jersey_number": 15
+                },
+                {
+                  "name": "László Bénes",
+                  "position": "Central Midfield",
+                  "jersey_number": 22
+                },
+                {
+                  "name": "Hannes Wolf",
+                  "position": "Attacking Midfield",
+                  "jersey_number": 11
+                },
+                {
+                  "name": "Breel Embolo",
+                  "position": "Striker",
+                  "jersey_number": 36
+                },
+                {
+                  "name": "Alassane Pléa",
+                  "position": "Striker",
+                  "jersey_number": 14
+                }
+              ]
+            },
+            {
+              "id": 6,
+              "name": "Wolfsburg",
+              "image_url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Logo-VfL-Wolfsburg.svg",
+              "players": [
+                {
+                  "name": "Koen Casteels",
+                  "position": "Goalkeeper",
+                  "jersey_number": 1
+                },
+                {
+                  "name": "Kevin Mbabu",
+                  "position": "Right Back",
+                  "jersey_number": 19
+                },
+                {
+                  "name": "John Brooks",
+                  "position": "Centre Back",
+                  "jersey_number": 25
+                },
+                {
+                  "name": "Maxence Lacroix",
+                  "position": "Centre Back",
+                  "jersey_number": 4
+                },
+                {
+                  "name": "Ridle Baku",
+                  "position": "Left Back",
+                  "jersey_number": 20
+                },
+                {
+                  "name": "Xaver Schlager",
+                  "position": "Defensive Midfield",
+                  "jersey_number": 24
+                },
+                {
+                  "name": "Maximilian Arnold",
+                  "position": "Central Midfield",
+                  "jersey_number": 27
+                },
+                {
+                  "name": "Yannick Gerhardt",
+                  "position": "Attacking Midfield",
+                  "jersey_number": 31
+                },
+                {
+                  "name": "Renato Steffen",
+                  "position": "Right Wing",
+                  "jersey_number": 8
+                },
+                {
+                  "name": "Ridle Baku",
+                  "position": "Left Wing",
+                  "jersey_number": 20
+                },
+                {
+                  "name": "Wout Weghorst",
+                  "position": "Striker",
+                  "jersey_number": 9
+                },
+                {
+                  "name": "Pavao Pervan",
+                  "position": "Goalkeeper",
+                  "jersey_number": 12
+                },
+                {
+                  "name": "Jerome Roussillon",
+                  "position": "Left Back",
+                  "jersey_number": 15
+                },
+                {
+                  "name": "Sebastiaan Bornauw",
+                  "position": "Centre Back",
+                  "jersey_number": 3
+                },
+                {
+                  "name": "Admir Mehmedi",
+                  "position": "Central Midfield",
+                  "jersey_number": 14
+                },
+                {
+                  "name": "Josip Brekalo",
+                  "position": "Left Wing",
+                  "jersey_number": 7
+                },
+                {
+                  "name": "Omar Marmoush",
+                  "position": "Right Wing",
+                  "jersey_number": 17
+                },
+                {
+                  "name": "Luca Waldschmidt",
+                  "position": "Striker",
+                  "jersey_number": 28
+                },
+                {
+                  "name": "Max Kruse",
+                  "position": "Striker",
+                  "jersey_number": 10
+                }
+              ]
+            },
+            {
+              "id": 7,
+              "name": "Eintracht Frankfurt",
+              "image_url": "https://upload.wikimedia.org/wikipedia/en/0/04/Eintracht_Frankfurt_Logo.svg",
+              "players": [
+                {
+                  "name": "Kevin Trapp",
+                  "position": "Goalkeeper",
+                  "jersey_number": 1
+                },
+                {
+                  "name": "Danny da Costa",
+                  "position": "Right Back",
+                  "jersey_number": 24
+                },
+                {
+                  "name": "Evan Ndicka",
+                  "position": "Centre Back",
+                  "jersey_number": 2
+                },
+                {
+                  "name": "Martin Hinteregger",
+                  "position": "Centre Back",
+                  "jersey_number": 13
+                },
+                {
+                  "name": "Filip Kostić",
+                  "position": "Left Back",
+                  "jersey_number": 10
+                },
+                {
+                  "name": "Djibril Sow",
+                  "position": "Central Midfield",
+                  "jersey_number": 8
+                },
+                {
+                  "name": "Sebastian Rode",
+                  "position": "Central Midfield",
+                  "jersey_number": 17
+                },
+                {
+                  "name": "Jesper Lindstrøm",
+                  "position": "Attacking Midfield",
+                  "jersey_number": 29
+                },
+                {
+                  "name": "Daichi Kamada",
+                  "position": "Right Wing",
+                  "jersey_number": 15
+                },
+                {
+                  "name": "Ansgar Knauff",
+                  "position": "Left Wing",
+                  "jersey_number": 36
+                },
+                {
+                  "name": "Rafael Borré",
+                  "position": "Striker",
+                  "jersey_number": 19
+                },
+                {
+                  "name": "Diant Ramaj",
+                  "position": "Goalkeeper",
+                  "jersey_number": 40
+                },
+                {
+                  "name": "Timothy Chandler",
+                  "position": "Right Back",
+                  "jersey_number": 22
+                },
+                {
+                  "name": "Makoto Hasebe",
+                  "position": "Centre Back",
+                  "jersey_number": 20
+                },
+                {
+                  "name": "Almamy Touré",
+                  "position": "Centre Back",
+                  "jersey_number": 18
+                },
+                {
+                  "name": "Kristijan Jakić",
+                  "position": "Central Midfield",
+                  "jersey_number": 6
+                },
+                {
+                  "name": "Ajdin Hrustic",
+                  "position": "Central Midfield",
+                  "jersey_number": 7
+                },
+                {
+                  "name": "Gonçalo Paciência",
+                  "position": "Striker",
+                  "jersey_number": 9
+                },
+                {
+                  "name": "Sam Lammers",
+                  "position": "Striker",
+                  "jersey_number": 14
+                }
+              ]
+            },
+            {
+              "id": 8,
+              "name": "Hertha BSC",
+              "image_url": "https://upload.wikimedia.org/wikipedia/en/9/93/Hertha_BSC_Logo.svg",
+              "players": [
+                {
+                  "name": "Alexander Schwolow",
+                  "position": "Goalkeeper",
+                  "jersey_number": 1
+                },
+                {
+                  "name": "Peter Pekarík",
+                  "position": "Right Back",
+                  "jersey_number": 2
+                },
+                {
+                  "name": "Dedryck Boyata",
+                  "position": "Centre Back",
+                  "jersey_number": 20
+                },
+                {
+                  "name": "Niklas Stark",
+                  "position": "Centre Back",
+                  "jersey_number": 5
+                },
+                {
+                  "name": "Marvin Plattenhardt",
+                  "position": "Left Back",
+                  "jersey_number": 21
+                },
+                {
+                  "name": "Lucas Tousart",
+                  "position": "Central Midfield",
+                  "jersey_number": 29
+                },
+                {
+                  "name": "Santiago Ascacibar",
+                  "position": "Central Midfield",
+                  "jersey_number": 18
+                },
+                {
+                  "name": "Vladimir Darida",
+                  "position": "Attacking Midfield",
+                  "jersey_number": 6
+                },
+                {
+                  "name": "Stevan Jovetić",
+                  "position": "Right Wing",
+                  "jersey_number": 19
+                },
+                {
+                  "name": "Marco Richter",
+                  "position": "Left Wing",
+                  "jersey_number": 23
+                },
+                {
+                  "name": "Krzysztof Piątek",
+                  "position": "Striker",
+                  "jersey_number": 9
+                },
+                {
+                  "name": "Rune Jarstein",
+                  "position": "Goalkeeper",
+                  "jersey_number": 22
+                },
+                {
+                  "name": "Jordan Torunarigha",
+                  "position": "Centre Back",
+                  "jersey_number": 25
+                },
+                {
+                  "name": "Marton Dárdai",
+                  "position": "Centre Back",
+                  "jersey_number": 31
+                },
+                {
+                  "name": "Malick Thiaw",
+                  "position": "Centre Back",
+                  "jersey_number": 33
+                },
+                {
+                  "name": "Bastian Oczipka",
+                  "position": "Left Back",
+                  "jersey_number": 24
+                },
+                {
+                  "name": "Omar Mascarell",
+                  "position": "Defensive Midfield",
+                  "jersey_number": 6
+                },
+                {
+                  "name": "Suat Serdar",
+                  "position": "Central Midfield",
+                  "jersey_number": 8
+                },
+                {
+                  "name": "Amine Harit",
+                  "position": "Attacking Midfield",
+                  "jersey_number": 25
+                },
+                {
+                  "name": "Rabbi Matondo",
+                  "position": "Right Wing",
+                  "jersey_number": 14
+                },
+                {
+                  "name": "Benito Raman",
+                  "position": "Left Wing",
+                  "jersey_number": 9
+                },
+                {
+                  "name": "Mark Uth",
+                  "position": "Striker",
+                  "jersey_number": 7
+                },
+                {
+                  "name": "Michael Langer",
+                  "position": "Goalkeeper",
+                  "jersey_number": 34
+                },
+                {
+                  "name": "Ozan Kabak",
+                  "position": "Centre Back",
+                  "jersey_number": 4
+                },
+                {
+                  "name": "Matija Nastasic",
+                  "position": "Centre Back",
+                  "jersey_number": 5
+                },
+                {
+                  "name": "Can Bozdogan",
+                  "position": "Central Midfield",
+                  "jersey_number": 40
+                },
+                {
+                  "name": "Alessandro Schöpf",
+                  "position": "Central Midfield",
+                  "jersey_number": 28
+                },
+                {
+                  "name": "Goncalo Paciencia",
+                  "position": "Striker",
+                  "jersey_number": 18
+                },
+                {
+                  "name": "Matthew Hoppe",
+                  "position": "Striker",
+                  "jersey_number": 43
+                },
+                {
+                  "name": "William",
+                  "position": "Right Back",
+                  "jersey_number": 13
+                }
+              ]
+            },
+            {
+              "id": 9,
+              "name": "Werder Bremen",
+              "image_url": "https://upload.wikimedia.org/wikipedia/commons/b/be/SV-Werder-Bremen-Logo.svg",
+              "players": [
+                {
+                  "name": "Jiri Pavlenka",
+                  "position": "Goalkeeper",
+                  "jersey_number": 1
+                },
+                {
+                  "name": "Niklas Moisander",
+                  "position": "Centre Back",
+                  "jersey_number": 18
+                },
+                {
+                  "name": "Ömer Toprak",
+                  "position": "Centre Back",
+                  "jersey_number": 21
+                },
+                {
+                  "name": "Theodor Gebre Selassie",
+                  "position": "Right Back",
+                  "jersey_number": 23
+                },
+                {
+                  "name": "Ludwig Augustinsson",
+                  "position": "Left Back",
+                  "jersey_number": 5
+                },
+                {
+                  "name": "Maximilian Eggestein",
+                  "position": "Central Midfield",
+                  "jersey_number": 35
+                },
+                {
+                  "name": "Jean-Manuel Mbom",
+                  "position": "Central Midfield",
+                  "jersey_number": 34
+                },
+                {
+                  "name": "Leonardo Bittencourt",
+                  "position": "Attacking Midfield",
+                  "jersey_number": 10
+                },
+                {
+                  "name": "Milos Veljkovic",
+                  "position": "Centre Back",
+                  "jersey_number": 13
+                },
+                {
+                  "name": "Davie Selke",
+                  "position": "Striker",
+                  "jersey_number": 9
+                },
+                {
+                  "name": "Niclas Füllkrug",
+                  "position": "Striker",
+                  "jersey_number": 11
+                },
+                {
+                  "name": "Michael Zetterer",
+                  "position": "Goalkeeper",
+                  "jersey_number": 30
+                },
+                {
+                  "name": "Felix Agu",
+                  "position": "Left Back",
+                  "jersey_number": 27
+                },
+                {
+                  "name": "Christian Groß",
+                  "position": "Defensive Midfield",
+                  "jersey_number": 36
+                },
+                {
+                  "name": "Kevin Möhwald",
+                  "position": "Central Midfield",
+                  "jersey_number": 6
+                },
+                {
+                  "name": "Romano Schmid",
+                  "position": "Attacking Midfield",
+                  "jersey_number": 20
+                },
+                {
+                  "name": "Joshua Sargent",
+                  "position": "Right Wing",
+                  "jersey_number": 19
+                },
+                {
+                  "name": "Yuya Osako",
+                  "position": "Striker",
+                  "jersey_number": 8
+                }
+              ]
+            },
+            {
+              "id": 10,
+              "name": "Schalke 04",
+              "image_url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/FC_Schalke_04_Logo.svg",
+              "players": [
+                {
+                  "name": "Ralf Fährmann",
+                  "position": "Goalkeeper",
+                  "jersey_number": 1
+                },
+                {
+                  "name": "Salif Sané",
+                  "position": "Centre Back",
+                  "jersey_number": 26
+                },
+                {
+                  "name": "Bastian Oczipka",
+                  "position": "Left Back",
+                  "jersey_number": 24
+                },
+                {
+                  "name": "Ozan Kabak",
+                  "position": "Centre Back",
+                  "jersey_number": 4
+                },
+                {
+                  "name": "Benjamin Stambouli",
+                  "position": "Centre Back",
+                  "jersey_number": 17
+                },
+                {
+                  "name": "Suat Serdar",
+                  "position": "Central Midfield",
+                  "jersey_number": 8
+                },
+                {
+                  "name": "Omar Mascarell",
+                  "position": "Defensive Midfield",
+                  "jersey_number": 6
+                },
+                {
+                  "name": "Amine Harit",
+                  "position": "Attacking Midfield",
+                  "jersey_number": 25
+                },
+                {
+                  "name": "Mark Uth",
+                  "position": "Right Wing",
+                  "jersey_number": 7
+                },
+                {
+                  "name": "Benito Raman",
+                  "position": "Left Wing",
+                  "jersey_number": 9
+                },
+                {
+                  "name": "Klaas-Jan Huntelaar",
+                  "position": "Striker",
+                  "jersey_number": 21
+                },
+                {
+                  "name": "Michael Langer",
+                  "position": "Goalkeeper",
+                  "jersey_number": 34
+                },
+                {
+                  "name": "Shkodran Mustafi",
+                  "position": "Centre Back",
+                  "jersey_number": 13
+                },
+                {
+                  "name": "Sead Kolašinac",
+                  "position": "Left Back",
+                  "jersey_number": 20
+                },
+                {
+                  "name": "Nabil Bentaleb",
+                  "position": "Central Midfield",
+                  "jersey_number": 10
+                },
+                {
+                  "name": "Ralf Becker",
+                  "position": "Central Midfield",
+                  "jersey_number": 22
+                },
+                {
+                  "name": "Can Bozdogan",
+                  "position": "Attacking Midfield",
+                  "jersey_number": 41
+                },
+                {
+                  "name": "Matthew Hoppe",
+                  "position": "Striker",
+                  "jersey_number": 43
+                }
+              ]
+            },
+            {
+              "id": 11,
+              "name": "Mainz 05",
+              "image_url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/1_FSV_Mainz_05_Logo.svg",
+              "players": [
+                {
+                  "name": "Robin Zentner",
+                  "position": "Goalkeeper",
+                  "jersey_number": 27
+                },
+                {
+                  "name": "Danny da Costa",
+                  "position": "Right Back",
+                  "jersey_number": 22
+                },
+                {
+                  "name": "Moussa Niakhaté",
+                  "position": "Centre Back",
+                  "jersey_number": 19
+                },
+                {
+                  "name": "Stefan Bell",
+                  "position": "Centre Back",
+                  "jersey_number": 16
+                },
+                {
+                  "name": "Anderson Lucoqui",
+                  "position": "Left Back",
+                  "jersey_number": 23
+                },
+                {
+                  "name": "Leandro Barreiro",
+                  "position": "Central Midfield",
+                  "jersey_number": 8
+                },
+                {
+                  "name": "Jean-Paul Boëtius",
+                  "position": "Central Midfield",
+                  "jersey_number": 5
+                },
+                {
+                  "name": "Jonathan Burkardt",
+                  "position": "Attacking Midfield",
+                  "jersey_number": 29
+                },
+                {
+                  "name": "Karim Onisiwo",
+                  "position": "Right Wing",
+                  "jersey_number": 21
+                },
+                {
+                  "name": "Jae-Sung Lee",
+                  "position": "Left Wing",
+                  "jersey_number": 7
+                },
+                {
+                  "name": "Adam Szalai",
+                  "position": "Striker",
+                  "jersey_number": 28
+                },
+                {
+                  "name": "Finn Dahmen",
+                  "position": "Goalkeeper",
+                  "jersey_number": 1
+                },
+                {
+                  "name": "David Nemeth",
+                  "position": "Centre Back",
+                  "jersey_number": 3
+                },
+                {
+                  "name": "Alexander Hack",
+                  "position": "Centre Back",
+                  "jersey_number": 42
+                },
+                {
+                  "name": "Niklas Tauer",
+                  "position": "Central Midfield",
+                  "jersey_number": 25
+                },
+                {
+                  "name": "Paul Nebel",
+                  "position": "Right Wing",
+                  "jersey_number": 26
+                },
+                {
+                  "name": "Jean-Philippe Mateta",
+                  "position": "Striker",
+                  "jersey_number": 9
+                },
+                {
+                  "name": "Dominik Kohr",
+                  "position": "Central Midfield",
+                  "jersey_number": 31
+                },
+                {
+                  "name": "Kevin Stöger",
+                  "position": "Attacking Midfield",
+                  "jersey_number": 17
+                }
+              ]
+            },
+            {
+              "id": 12,
+              "name": "Augsburg",
+              "image_url": "https://upload.wikimedia.org/wikipedia/en/d/d4/FC_Augsburg_logo.svg",
+              "players": [
+                {
+                  "name": "Rafał Gikiewicz",
+                  "position": "Goalkeeper",
+                  "jersey_number": 1
+                },
+                {
+                  "name": "Robert Gumny",
+                  "position": "Right Back",
+                  "jersey_number": 2
+                },
+                {
+                  "name": "Reece Oxford",
+                  "position": "Centre Back",
+                  "jersey_number": 36
+                },
+                {
+                  "name": "Jeffrey Gouweleeuw",
+                  "position": "Centre Back",
+                  "jersey_number": 6
+                },
+                {
+                  "name": "Iago",
+                  "position": "Left Back",
+                  "jersey_number": 22
+                },
+                {
+                  "name": "Carlos Gruezo",
+                  "position": "Central Midfield",
+                  "jersey_number": 25
+                },
+                {
+                  "name": "Daniel Caligiuri",
+                  "position": "Central Midfield",
+                  "jersey_number": 20
+                },
+                {
+                  "name": "Niklas Dorsch",
+                  "position": "Central Midfield",
+                  "jersey_number": 30
+                },
+                {
+                  "name": "André Hahn",
+                  "position": "Right Wing",
+                  "jersey_number": 28
+                },
+                {
+                  "name": "Ruben Vargas",
+                  "position": "Left Wing",
+                  "jersey_number": 16
+                },
+                {
+                  "name": "Florian Niederlechner",
+                  "position": "Striker",
+                  "jersey_number": 7
+                },
+                {
+                  "name": "Tomas Koubek",
+                  "position": "Goalkeeper",
+                  "jersey_number": 40
+                },
+                {
+                  "name": "Felix Uduokhai",
+                  "position": "Centre Back",
+                  "jersey_number": 19
+                },
+                {
+                  "name": "Jan Morávek",
+                  "position": "Central Midfield",
+                  "jersey_number": 14
+                },
+                {
+                  "name": "Tobias Strobl",
+                  "position": "Central Midfield",
+                  "jersey_number": 5
+                },
+                {
+                  "name": "Michael Gregoritsch",
+                  "position": "Striker",
+                  "jersey_number": 11
+                },
+                {
+                  "name": "Mads Pedersen",
+                  "position": "Left Back",
+                  "jersey_number": 3
+                },
+                {
+                  "name": "Fredrik Jensen",
+                  "position": "Central Midfield",
+                  "jersey_number": 24
+                },
+                {
+                  "name": "Sergio Córdova",
+                  "position": "Striker",
+                  "jersey_number": 9
+                }
+              ]
+            },
+            {
+              "id": 13,
+              "name": "Freiburg",
+              "image_url": "https://upload.wikimedia.org/wikipedia/en/f/f1/SC_Freiburg_logo.svg",
+              "players": [
+                {
+                  "name": "Mark Flekken",
+                  "position": "Goalkeeper",
+                  "jersey_number": 1
+                },
+                {
+                  "name": "Lukas Kübler",
+                  "position": "Right Back",
+                  "jersey_number": 17
+                },
+                {
+                  "name": "Philipp Lienhart",
+                  "position": "Centre Back",
+                  "jersey_number": 3
+                },
+                {
+                  "name": "Manuel Gulde",
+                  "position": "Centre Back",
+                  "jersey_number": 5
+                },
+                {
+                  "name": "Christian Günter",
+                  "position": "Left Back",
+                  "jersey_number": 30
+                },
+                {
+                  "name": "Nicolas Höfler",
+                  "position": "Defensive Midfield",
+                  "jersey_number": 27
+                },
+                {
+                  "name": "Maximilian Eggestein",
+                  "position": "Central Midfield",
+                  "jersey_number": 8
+                },
+                {
+                  "name": "Vincenzo Grifo",
+                  "position": "Attacking Midfield",
+                  "jersey_number": 32
+                },
+                {
+                  "name": "Jonathan Schmid",
+                  "position": "Right Wing",
+                  "jersey_number": 7
+                },
+                {
+                  "name": "Woo-Yeong Jeong",
+                  "position": "Left Wing",
+                  "jersey_number": 29
+                },
+                {
+                  "name": "Lucas Höler",
+                  "position": "Striker",
+                  "jersey_number": 9
+                },
+                {
+                  "name": "Benjamin Uphoff",
+                  "position": "Goalkeeper",
+                  "jersey_number": 1
+                },
+                {
+                  "name": "Keven Schlotterbeck",
+                  "position": "Centre Back",
+                  "jersey_number": 31
+                },
+                {
+                  "name": "Nico Schlotterbeck",
+                  "position": "Centre Back",
+                  "jersey_number": 4
+                },
+                {
+                  "name": "Janik Haberer",
+                  "position": "Central Midfield",
+                  "jersey_number": 19
+                },
+                {
+                  "name": "Roland Sallai",
+                  "position": "Right Wing",
+                  "jersey_number": 22
+                },
+                {
+                  "name": "Nils Petersen",
+                  "position": "Striker",
+                  "jersey_number": 18
+                },
+                {
+                  "name": "Ermedin Demirović",
+                  "position": "Striker",
+                  "jersey_number": 11
+                },
+                {
+                  "name": "Baptiste Santamaria",
+                  "position": "Central Midfield",
+                  "jersey_number": 8
+                }
+              ]
+            },
+            {
+              "id": 14,
+              "name": "Union Berlin",
+              "image_url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/1._FC_Union_Berlin_logo.svg",
+              "players": [
+                {
+                  "name": "Andreas Luthe",
+                  "position": "Goalkeeper",
+                  "jersey_number": 1
+                },
+                {
+                  "name": "Christopher Trimmel",
+                  "position": "Right Back",
+                  "jersey_number": 28
+                },
+                {
+                  "name": "Robin Knoche",
+                  "position": "Centre Back",
+                  "jersey_number": 31
+                },
+                {
+                  "name": "Timo Baumgartl",
+                  "position": "Centre Back",
+                  "jersey_number": 25
+                },
+                {
+                  "name": "Niko Gießelmann",
+                  "position": "Left Back",
+                  "jersey_number": 23
+                },
+                {
+                  "name": "Grischa Prömel",
+                  "position": "Central Midfield",
+                  "jersey_number": 21
+                },
+                {
+                  "name": "Rani Khedira",
+                  "position": "Central Midfield",
+                  "jersey_number": 8
+                },
+                {
+                  "name": "Genki Haraguchi",
+                  "position": "Attacking Midfield",
+                  "jersey_number": 24
+                },
+                {
+                  "name": "Sheraldo Becker",
+                  "position": "Right Wing",
+                  "jersey_number": 27
+                },
+                {
+                  "name": "Max Kruse",
+                  "position": "Left Wing",
+                  "jersey_number": 10
+                },
+                {
+                  "name": "Taiwo Awoniyi",
+                  "position": "Striker",
+                  "jersey_number": 14
+                },
+                {
+                  "name": "Frederik Rønnow",
+                  "position": "Goalkeeper",
+                  "jersey_number": 19
+                },
+                {
+                  "name": "Paul Jaeckel",
+                  "position": "Centre Back",
+                  "jersey_number": 3
+                },
+                {
+                  "name": "Dominique Heintz",
+                  "position": "Centre Back",
+                  "jersey_number": 20
+                },
+                {
+                  "name": "Julian Ryerson",
+                  "position": "Right Back",
+                  "jersey_number": 6
+                },
+                {
+                  "name": "Christian Gentner",
+                  "position": "Central Midfield",
+                  "jersey_number": 34
+                },
+                {
+                  "name": "Keita Endo",
+                  "position": "Left Wing",
+                  "jersey_number": 18
+                },
+                {
+                  "name": "Kevin Behrens",
+                  "position": "Striker",
+                  "jersey_number": 17
+                },
+                {
+                  "name": "Levin Öztunali",
+                  "position": "Right Wing",
+                  "jersey_number": 7
+                }
+              ]
+            },
+            {
+              "id": 15,
+              "name": "Stuttgart",
+              "image_url": "https://upload.wikimedia.org/wikipedia/en/1/10/VfB_Stuttgart_Logo_2014.svg",
+              "players": [
+                {
+                  "name": "Florian Müller",
+                  "position": "Goalkeeper",
+                  "jersey_number": 1
+                },
+                {
+                  "name": "Pascal Stenzel",
+                  "position": "Right Back",
+                  "jersey_number": 15
+                },
+                {
+                  "name": "Waldemar Anton",
+                  "position": "Centre Back",
+                  "jersey_number": 2
+                },
+                {
+                  "name": "Konstantinos Mavropanos",
+                  "position": "Centre Back",
+                  "jersey_number": 4
+                },
+                {
+                  "name": "Borna Sosa",
+                  "position": "Left Back",
+                  "jersey_number": 24
+                },
+                {
+                  "name": "Wataru Endo",
+                  "position": "Central Midfield",
+                  "jersey_number": 3
+                },
+                {
+                  "name": "Atakan Karazor",
+                  "position": "Central Midfield",
+                  "jersey_number": 16
+                },
+                {
+                  "name": "Philipp Förster",
+                  "position": "Attacking Midfield",
+                  "jersey_number": 20
+                },
+                {
+                  "name": "Roberto Massimo",
+                  "position": "Right Wing",
+                  "jersey_number": 30
+                },
+                {
+                  "name": "Orel Mangala",
+                  "position": "Left Wing",
+                  "jersey_number": 23
+                },
+                {
+                  "name": "Sasa Kalajdzic",
+                  "position": "Striker",
+                  "jersey_number": 9
+                },
+                {
+                  "name": "Fabian Bredlow",
+                  "position": "Goalkeeper",
+                  "jersey_number": 33
+                },
+                {
+                  "name": "Marc-Oliver Kempf",
+                  "position": "Centre Back",
+                  "jersey_number": 4
+                },
+                {
+                  "name": "Luca Pfeiffer",
+                  "position": "Striker",
+                  "jersey_number": 9
+                },
+                {
+                  "name": "Erik Thommy",
+                  "position": "Right Wing",
+                  "jersey_number": 11
+                },
+                {
+                  "name": "Daniel Didavi",
+                  "position": "Attacking Midfield",
+                  "jersey_number": 10
+                },
+                {
+                  "name": "Philipp Klement",
+                  "position": "Attacking Midfield",
+                  "jersey_number": 21
+                },
+                {
+                  "name": "Enzo Millot",
+                  "position": "Central Midfield",
+                  "jersey_number": 8
+                },
+                {
+                  "name": "Mateo Klimowicz",
+                  "position": "Attacking Midfield",
+                  "jersey_number": 31
+                }
+              ]
+            },
+            {
+              "id": 16,
+              "name": "Cologne",
+              "image_url": "https://upload.wikimedia.org/wikipedia/en/7/77/FC_Cologne_logo.svg",
+              "players": [
+                {
+                  "name": "Timo Horn",
+                  "position": "Goalkeeper",
+                  "jersey_number": 1
+                },
+                {
+                  "name": "Kingsley Ehizibue",
+                  "position": "Right Back",
+                  "jersey_number": 19
+                },
+                {
+                  "name": "Sebastiaan Bornauw",
+                  "position": "Centre Back",
+                  "jersey_number": 33
+                },
+                {
+                  "name": "Rafael Czichos",
+                  "position": "Centre Back",
+                  "jersey_number": 5
+                },
+                {
+                  "name": "Noah Katterbach",
+                  "position": "Left Back",
+                  "jersey_number": 34
+                },
+                {
+                  "name": "Ellyes Skhiri",
+                  "position": "Defensive Midfield",
+                  "jersey_number": 28
+                },
+                {
+                  "name": "Salih Özcan",
+                  "position": "Central Midfield",
+                  "jersey_number": 20
+                },
+                {
+                  "name": "Ondrej Duda",
+                  "position": "Attacking Midfield",
+                  "jersey_number": 18
+                },
+                {
+                  "name": "Kingsley Schindler",
+                  "position": "Right Wing",
+                  "jersey_number": 27
+                },
+                {
+                  "name": "Ismail Jakobs",
+                  "position": "Left Wing",
+                  "jersey_number": 14
+                },
+                {
+                  "name": "Sebastian Andersson",
+                  "position": "Striker",
+                  "jersey_number": 9
+                },
+                {
+                  "name": "Julian Krahl",
+                  "position": "Goalkeeper",
+                  "jersey_number": 30
+                },
+                {
+                  "name": "Sava-Arangel Čestić",
+                  "position": "Centre Back",
+                  "jersey_number": 26
+                },
+                {
+                  "name": "Tolu Arokodare",
+                  "position": "Striker",
+                  "jersey_number": 19
+                },
+                {
+                  "name": "Dominick Drexler",
+                  "position": "Attacking Midfield",
+                  "jersey_number": 24
+                },
+                {
+                  "name": "Jorge Meré",
+                  "position": "Centre Back",
+                  "jersey_number": 22
+                },
+                {
+                  "name": "Jonas Hector",
+                  "position": "Left Back",
+                  "jersey_number": 14
+                },
+                {
+                  "name": "Jan Thielmann",
+                  "position": "Right Wing",
+                  "jersey_number": 29
+                },
+                {
+                  "name": "Anthony Modeste",
+                  "position": "Striker",
+                  "jersey_number": 27
+                }
+              ]
+            },
+            {
+              "id": 17,
+              "name": "Hoffenheim",
+              "image_url": "https://upload.wikimedia.org/wikipedia/en/e/e7/TSG_1899_Hoffenheim_Logo.svg",
+              "players": [
+                {
+                  "name": "Oliver Baumann",
+                  "position": "Goalkeeper",
+                  "jersey_number": 1
+                },
+                {
+                  "name": "Pavel Kadeřábek",
+                  "position": "Right Back",
+                  "jersey_number": 3
+                },
+                {
+                  "name": "Kevin Akpoguma",
+                  "position": "Centre Back",
+                  "jersey_number": 25
+                },
+                {
+                  "name": "Stefan Posch",
+                  "position": "Centre Back",
+                  "jersey_number": 38
+                },
+                {
+                  "name": "David Raum",
+                  "position": "Left Back",
+                  "jersey_number": 17
+                },
+                {
+                  "name": "Diadie Samassékou",
+                  "position": "Defensive Midfield",
+                  "jersey_number": 18
+                },
+                {
+                  "name": "Dennis Geiger",
+                  "position": "Central Midfield",
+                  "jersey_number": 8
+                },
+                {
+                  "name": "Christoph Baumgartner",
+                  "position": "Attacking Midfield",
+                  "jersey_number": 14
+                },
+                {
+                  "name": "Ihlas Bebou",
+                  "position": "Right Wing",
+                  "jersey_number": 9
+                },
+                {
+                  "name": "Andrej Kramarić",
+                  "position": "Left Wing",
+                  "jersey_number": 27
+                },
+                {
+                  "name": "Munas Dabbur",
+                  "position": "Striker",
+                  "jersey_number": 10
+                },
+                {
+                  "name": "Philipp Pentke",
+                  "position": "Goalkeeper",
+                  "jersey_number": 12
+                },
+                {
+                  "name": "Chris Richards",
+                  "position": "Centre Back",
+                  "jersey_number": 28
+                },
+                {
+                  "name": "Florian Grillitsch",
+                  "position": "Central Midfield",
+                  "jersey_number": 11
+                },
+                {
+                  "name": "Marco John",
+                  "position": "Left Back",
+                  "jersey_number": 30
+                },
+                {
+                  "name": "Kevin Vogt",
+                  "position": "Centre Back",
+                  "jersey_number": 22
+                },
+                {
+                  "name": "Mijat Gaćinović",
+                  "position": "Attacking Midfield",
+                  "jersey_number": 20
+                },
+                {
+                  "name": "Georginio Rutter",
+                  "position": "Striker",
+                  "jersey_number": 33
+                },
+                {
+                  "name": "Robert Skov",
+                  "position": "Right Wing",
+                  "jersey_number": 29
+                }
+              ]
+            },
+            {
+              "id": 18,
+              "name": "Bochum",
+              "image_url": "https://upload.wikimedia.org/wikipedia/en/6/62/VfL_Bochum_logo.svg",
+              "players": [
+                {
+                  "name": "Manuel Riemann",
+                  "position": "Goalkeeper",
+                  "jersey_number": 1
+                },
+                {
+                  "name": "Cristian Gamboa",
+                  "position": "Right Back",
+                  "jersey_number": 2
+                },
+                {
+                  "name": "Armel Bella-Kotchap",
+                  "position": "Centre Back",
+                  "jersey_number": 37
+                },
+                {
+                  "name": "Maxim Leitsch",
+                  "position": "Centre Back",
+                  "jersey_number": 29
+                },
+                {
+                  "name": "Danilo Soares",
+                  "position": "Left Back",
+                  "jersey_number": 3
+                },
+                {
+                  "name": "Anthony Losilla",
+                  "position": "Central Midfield",
+                  "jersey_number": 8
+                },
+                {
+                  "name": "Robert Tesche",
+                  "position": "Central Midfield",
+                  "jersey_number": 23
+                },
+                {
+                  "name": "Eduard Löwen",
+                  "position": "Attacking Midfield",
+                  "jersey_number": 10
+                },
+                {
+                  "name": "Gerrit Holtmann",
+                  "position": "Right Wing",
+                  "jersey_number": 17
+                },
+                {
+                  "name": "Danny Blum",
+                  "position": "Left Wing",
+                  "jersey_number": 7
+                },
+                {
+                  "name": "Simon Zoller",
+                  "position": "Striker",
+                  "jersey_number": 9
+                },
+                {
+                  "name": "Patrick Drewes",
+                  "position": "Goalkeeper",
+                  "jersey_number": 32
+                },
+                {
+                  "name": "Erhan Masovic",
+                  "position": "Centre Back",
+                  "jersey_number": 24
+                },
+                {
+                  "name": "Herbert Bockhorn",
+                  "position": "Right Back",
+                  "jersey_number": 11
+                },
+                {
+                  "name": "Sebastian Polter",
+                  "position": "Striker",
+                  "jersey_number": 40
+                },
+                {
+                  "name": "Jürgen Locadia",
+                  "position": "Striker",
+                  "jersey_number": 19
+                },
+                {
+                  "name": "Takuma Asano",
+                  "position": "Right Wing",
+                  "jersey_number": 27
+                },
+                {
+                  "name": "Miloš Pantović",
+                  "position": "Left Wing",
+                  "jersey_number": 31
+                },
+                {
+                  "name": "Elvis Rexhbecaj",
+                  "position": "Central Midfield",
+                  "jersey_number": 20
+                }
+              ]
+            }
+          ]
         },
         {
           "id": 5,
-          "name": "Lille",
-          "image_url": "https://upload.wikimedia.org/wikipedia/en/5/5e/LOSC_Lille_logo.svg",
-          "players": []
-        },
-        {
-          "id": 6,
-          "name": "Nice",
-          "image_url": "https://upload.wikimedia.org/wikipedia/en/2/2d/OGC_Nice_logo.svg",
-          "players": []
-        },
-        {
-          "id": 7,
-          "name": "Rennes",
-          "image_url": "https://upload.wikimedia.org/wikipedia/en/8/86/Stade_Rennais_FC.svg",
-          "players": []
-        },
-        {
-          "id": 8,
-          "name": "Nantes",
-          "image_url": "https://upload.wikimedia.org/wikipedia/en/8/8b/FC_Nantes_logo.svg",
-          "players": []
-        },
-        {
-          "id": 9,
-          "name": "Strasbourg",
-          "image_url": "https://upload.wikimedia.org/wikipedia/en/c/ca/Racing_Club_de_Strasbourg_logo.svg",
-          "players": []
-        },
-        {
-          "id": 10,
-          "name": "Montpellier",
-          "image_url": "https://upload.wikimedia.org/wikipedia/en/f/f2/Montpellier_HSC_logo.svg",
-          "players": []
-        },
-        {
-          "id": 11,
-          "name": "Reims",
-          "image_url": "https://upload.wikimedia.org/wikipedia/en/7/70/Stade_de_Reims_logo.svg",
-          "players": []
-        },
+          "name": "Ligue 1",
+          "country": "France",
+          "image_url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Ligue_1_2024_Logo.png",
+          "clubs": [
+            {
+              "id": 1,
+              "name": "Paris Saint-Germain",
+              "image_url": "https://upload.wikimedia.org/wikipedia/en/a/a7/Paris_Saint-Germain_F.C..svg",
+              "players": [
+                {
+                  "name": "Gianluigi Donnarumma",
+                  "position": "Goalkeeper",
+                  "jersey_number": 50
+                },
+                {
+                  "name": "Achraf Hakimi",
+                  "position": "Right Back",
+                  "jersey_number": 2
+                },
+                {
+                  "name": "Marquinhos",
+                  "position": "Centre Back",
+                  "jersey_number": 5
+                },
+                {
+                  "name": "Sergio Ramos",
+                  "position": "Centre Back",
+                  "jersey_number": 4
+                },
+                {
+                  "name": "Nuno Mendes",
+                  "position": "Left Back",
+                  "jersey_number": 25
+                },
+                {
+                  "name": "Marco Verratti",
+                  "position": "Central Midfield",
+                  "jersey_number": 6
+                },
+                {
+                  "name": "Georginio Wijnaldum",
+                  "position": "Central Midfield",
+                  "jersey_number": 18
+                },
+                {
+                  "name": "Lionel Messi",
+                  "position": "Right Wing",
+                  "jersey_number": 30
+                },
+                {
+                  "name": "Neymar Jr.",
+                  "position": "Left Wing",
+                  "jersey_number": 10
+                },
+                {
+                  "name": "Kylian Mbappe",
+                  "position": "Striker",
+                  "jersey_number": 7
+                },
+                {
+                  "name": "Keylor Navas",
+                  "position": "Goalkeeper",
+                  "jersey_number": 1
+                },
+                {
+                  "name": "Presnel Kimpembe",
+                  "position": "Centre Back",
+                  "jersey_number": 3
+                },
+                {
+                  "name": "Idrissa Gueye",
+                  "position": "Central Midfield",
+                  "jersey_number": 27
+                },
+                {
+                  "name": "Mauro Icardi",
+                  "position": "Striker",
+                  "jersey_number": 9
+                },
+                {
+                  "name": "Julian Draxler",
+                  "position": "Attacking Midfield",
+                  "jersey_number": 23
+                }
+              ]
+            },
+            {
+              "id": 2,
+              "name": "Olympique de Marseille",
+              "image_url": "https://upload.wikimedia.org/wikipedia/en/6/68/Olympique_Marseille_logo.svg",
+              "players": [
+                {
+                  "name": "Steve Mandanda",
+                  "position": "Goalkeeper",
+                  "jersey_number": 30
+                },
+                {
+                  "name": "Pol Lirola",
+                  "position": "Right Back",
+                  "jersey_number": 29
+                },
+                {
+                  "name": "Leonardo Balerdi",
+                  "position": "Centre Back",
+                  "jersey_number": 5
+                },
+                {
+                  "name": "Duje Ćaleta-Car",
+                  "position": "Centre Back",
+                  "jersey_number": 15
+                },
+                {
+                  "name": "Jordan Amavi",
+                  "position": "Left Back",
+                  "jersey_number": 18
+                },
+                {
+                  "name": "Boubacar Kamara",
+                  "position": "Defensive Midfield",
+                  "jersey_number": 4
+                },
+                {
+                  "name": "Valentin Rongier",
+                  "position": "Central Midfield",
+                  "jersey_number": 21
+                },
+                {
+                  "name": "Dimitri Payet",
+                  "position": "Attacking Midfield",
+                  "jersey_number": 10
+                },
+                {
+                  "name": "Cengiz Ünder",
+                  "position": "Right Wing",
+                  "jersey_number": 17
+                },
+                {
+                  "name": "Konrad de la Fuente",
+                  "position": "Left Wing",
+                  "jersey_number": 20
+                },
+                {
+                  "name": "Arkadiusz Milik",
+                  "position": "Striker",
+                  "jersey_number": 9
+                },
+                {
+                  "name": "Pau López",
+                  "position": "Goalkeeper",
+                  "jersey_number": 16
+                },
+                {
+                  "name": "William Saliba",
+                  "position": "Centre Back",
+                  "jersey_number": 2
+                },
+                {
+                  "name": "Amine Harit",
+                  "position": "Attacking Midfield",
+                  "jersey_number": 7
+                },
+                {
+                  "name": "Mattéo Guendouzi",
+                  "position": "Central Midfield",
+                  "jersey_number": 6
+                }
+              ]
+            },
+            {
+              "id": 3,
+              "name": "Lyon",
+              "image_url": "https://upload.wikimedia.org/wikipedia/en/c/c6/Olympique_Lyonnais.svg",
+              "players": [
+                {
+                  "name": "Anthony Lopes",
+                  "position": "Goalkeeper",
+                  "jersey_number": 1
+                },
+                {
+                  "name": "Léo Dubois",
+                  "position": "Right Back",
+                  "jersey_number": 14
+                },
+                {
+                  "name": "Jason Denayer",
+                  "position": "Centre Back",
+                  "jersey_number": 5
+                },
+                {
+                  "name": "Jerome Boateng",
+                  "position": "Centre Back",
+                  "jersey_number": 17
+                },
+                {
+                  "name": "Emerson Palmieri",
+                  "position": "Left Back",
+                  "jersey_number": 3
+                },
+                {
+                  "name": "Maxence Caqueret",
+                  "position": "Central Midfield",
+                  "jersey_number": 25
+                },
+                {
+                  "name": "Bruno Guimarães",
+                  "position": "Central Midfield",
+                  "jersey_number": 39
+                },
+                {
+                  "name": "Lucas Paquetá",
+                  "position": "Attacking Midfield",
+                  "jersey_number": 10
+                },
+                {
+                  "name": "Karl Toko Ekambi",
+                  "position": "Right Wing",
+                  "jersey_number": 7
+                },
+                {
+                  "name": "Houssem Aouar",
+                  "position": "Left Wing",
+                  "jersey_number": 8
+                },
+                {
+                  "name": "Moussa Dembélé",
+                  "position": "Striker",
+                  "jersey_number": 9
+                },
+                {
+                  "name": "Julian Pollersbeck",
+                  "position": "Goalkeeper",
+                  "jersey_number": 30
+                },
+                {
+                  "name": "Sinaly Diomandé",
+                  "position": "Centre Back",
+                  "jersey_number": 2
+                },
+                {
+                  "name": "Thiago Mendes",
+                  "position": "Central Midfield",
+                  "jersey_number": 23
+                },
+                {
+                  "name": "Xherdan Shaqiri",
+                  "position": "Attacking Midfield",
+                  "jersey_number": 29
+                },
+                {
+                  "name": "Rayan Cherki",
+                  "position": "Right Wing",
+                  "jersey_number": 18
+                }
+              ]
+            },
+            {
+              "id": 4,
+              "name": "Monaco",
+              "image_url": "https://upload.wikimedia.org/wikipedia/en/b/ba/AS_Monaco_FC.svg",
+              "players": [
+                {
+                  "name": "Alexander Nübel",
+                  "position": "Goalkeeper",
+                  "jersey_number": 16
+                },
+                {
+                  "name": "Ruben Aguilar",
+                  "position": "Right Back",
+                  "jersey_number": 26
+                },
+                {
+                  "name": "Guillermo Maripán",
+                  "position": "Centre Back",
+                  "jersey_number": 3
+                },
+                {
+                  "name": "Axel Disasi",
+                  "position": "Centre Back",
+                  "jersey_number": 6
+                },
+                {
+                  "name": "Caio Henrique",
+                  "position": "Left Back",
+                  "jersey_number": 12
+                },
+                {
+                  "name": "Aurélien Tchouaméni",
+                  "position": "Defensive Midfield",
+                  "jersey_number": 8
+                },
+                {
+                  "name": "Youssouf Fofana",
+                  "position": "Central Midfield",
+                  "jersey_number": 22
+                },
+                {
+                  "name": "Sofiane Diop",
+                  "position": "Attacking Midfield",
+                  "jersey_number": 37
+                },
+                {
+                  "name": "Gelson Martins",
+                  "position": "Right Wing",
+                  "jersey_number": 11
+                },
+                {
+                  "name": "Krépin Diatta",
+                  "position": "Left Wing",
+                  "jersey_number": 27
+                },
+                {
+                  "name": "Wissam Ben Yedder",
+                  "position": "Striker",
+                  "jersey_number": 9
+                },
+                {
+                  "name": "Vito Mannone",
+                  "position": "Goalkeeper",
+                  "jersey_number": 30
+                },
+                {
+                  "name": "Djibril Sidibé",
+                  "position": "Right Back",
+                  "jersey_number": 19
+                },
+                {
+                  "name": "Benoît Badiashile",
+                  "position": "Centre Back",
+                  "jersey_number": 32
+                },
+                {
+                  "name": "Cesc Fàbregas",
+                  "position": "Central Midfield",
+                  "jersey_number": 4
+                },
+                {
+                  "name": "Jean Lucas",
+                  "position": "Central Midfield",
+                  "jersey_number": 22
+                },
+                {
+                  "name": "Kevin Volland",
+                  "position": "Striker",
+                  "jersey_number": 31
+                },
+                {
+                  "name": "Myron Boadu",
+                  "position": "Striker",
+                  "jersey_number": 9
+                }
+              ]
+            },
+            {
+              "id": 5,
+              "name": "Lille",
+              "image_url": "https://upload.wikimedia.org/wikipedia/en/5/5e/LOSC_Lille_logo.svg",
+              "players": [
+                {
+                  "name": "Leo Jardim",
+                  "position": "Goalkeeper",
+                  "jersey_number": 30
+                },
+                {
+                  "name": "Zeki Celik",
+                  "position": "Right Back",
+                  "jersey_number": 2
+                },
+                {
+                  "name": "José Fonte",
+                  "position": "Centre Back",
+                  "jersey_number": 6
+                },
+                {
+                  "name": "Sven Botman",
+                  "position": "Centre Back",
+                  "jersey_number": 4
+                },
+                {
+                  "name": "Reinildo Mandava",
+                  "position": "Left Back",
+                  "jersey_number": 28
+                },
+                {
+                  "name": "Benjamin André",
+                  "position": "Central Midfield",
+                  "jersey_number": 21
+                },
+                {
+                  "name": "Renato Sanches",
+                  "position": "Central Midfield",
+                  "jersey_number": 18
+                },
+                {
+                  "name": "Jonathan Ikoné",
+                  "position": "Right Wing",
+                  "jersey_number": 10
+                },
+                {
+                  "name": "Jonathan Bamba",
+                  "position": "Left Wing",
+                  "jersey_number": 7
+                },
+                {
+                  "name": "Jonathan David",
+                  "position": "Striker",
+                  "jersey_number": 9
+                },
+                {
+                  "name": "Burak Yilmaz",
+                  "position": "Striker",
+                  "jersey_number": 17
+                },
+                {
+                  "name": "Ivo Grbic",
+                  "position": "Goalkeeper",
+                  "jersey_number": 1
+                },
+                {
+                  "name": "Tiago Djaló",
+                  "position": "Centre Back",
+                  "jersey_number": 3
+                },
+                {
+                  "name": "Domagoj Bradaric",
+                  "position": "Left Back",
+                  "jersey_number": 29
+                },
+                {
+                  "name": "Xeka",
+                  "position": "Central Midfield",
+                  "jersey_number": 8
+                },
+                {
+                  "name": "Amadou Onana",
+                  "position": "Central Midfield",
+                  "jersey_number": 24
+                },
+                {
+                  "name": "Yusuf Yazici",
+                  "position": "Attacking Midfield",
+                  "jersey_number": 12
+                },
+                {
+                  "name": "Angel Gomes",
+                  "position": "Right Wing",
+                  "jersey_number": 20
+                },
+                {
+                  "name": "Timothy Weah",
+                  "position": "Left Wing",
+                  "jersey_number": 22
+                }
+              ]
+            },
+            {
+              "id": 6,
+              "name": "Nice",
+              "image_url": "https://upload.wikimedia.org/wikipedia/en/2/2d/OGC_Nice_logo.svg",
+              "players": [
+                {
+                  "name": "Walter Benítez",
+                  "position": "Goalkeeper",
+                  "jersey_number": 40
+                },
+                {
+                  "name": "Youcef Atal",
+                  "position": "Right Back",
+                  "jersey_number": 20
+                },
+                {
+                  "name": "Jean-Clair Todibo",
+                  "position": "Centre Back",
+                  "jersey_number": 6
+                },
+                {
+                  "name": "Dante",
+                  "position": "Centre Back",
+                  "jersey_number": 4
+                },
+                {
+                  "name": "Melvin Bard",
+                  "position": "Left Back",
+                  "jersey_number": 26
+                },
+                {
+                  "name": "Morgan Schneiderlin",
+                  "position": "Defensive Midfield",
+                  "jersey_number": 18
+                },
+                {
+                  "name": "Pablo Rosario",
+                  "position": "Central Midfield",
+                  "jersey_number": 8
+                },
+                {
+                  "name": "Hicham Boudaoui",
+                  "position": "Right Wing",
+                  "jersey_number": 28
+                },
+                {
+                  "name": "Amine Gouiri",
+                  "position": "Left Wing",
+                  "jersey_number": 11
+                },
+                {
+                  "name": "Andy Delort",
+                  "position": "Striker",
+                  "jersey_number": 9
+                },
+                {
+                  "name": "Kasper Dolberg",
+                  "position": "Striker",
+                  "jersey_number": 7
+                },
+                {
+                  "name": "Marcin Bułka",
+                  "position": "Goalkeeper",
+                  "jersey_number": 1
+                },
+                {
+                  "name": "Jordan Lotomba",
+                  "position": "Right Back",
+                  "jersey_number": 23
+                },
+                {
+                  "name": "Flavius Daniliuc",
+                  "position": "Centre Back",
+                  "jersey_number": 5
+                },
+                {
+                  "name": "Hassane Kamara",
+                  "position": "Left Back",
+                  "jersey_number": 13
+                },
+                {
+                  "name": "Mario Lemina",
+                  "position": "Central Midfield",
+                  "jersey_number": 18
+                },
+                {
+                  "name": "Calvin Stengs",
+                  "position": "Right Wing",
+                  "jersey_number": 22
+                },
+                {
+                  "name": "Justin Kluivert",
+                  "position": "Left Wing",
+                  "jersey_number": 21
+                },
+                {
+                  "name": "Evann Guessand",
+                  "position": "Striker",
+                  "jersey_number": 11
+                }
+              ]
+            },
+            {
+              "id": 7,
+              "name": "Rennes",
+              "image_url": "https://upload.wikimedia.org/wikipedia/en/8/86/Stade_Rennais_FC.svg",
+              "players": [
+                {
+                  "name": "Alfred Gomis",
+                  "position": "Goalkeeper",
+                  "jersey_number": 16
+                },
+                {
+                  "name": "Hamari Traoré",
+                  "position": "Right Back",
+                  "jersey_number": 27
+                },
+                {
+                  "name": "Nayef Aguerd",
+                  "position": "Centre Back",
+                  "jersey_number": 6
+                },
+                {
+                  "name": "Loïc Badé",
+                  "position": "Centre Back",
+                  "jersey_number": 4
+                },
+                {
+                  "name": "Adrien Truffert",
+                  "position": "Left Back",
+                  "jersey_number": 3
+                },
+                {
+                  "name": "Jonas Martin",
+                  "position": "Central Midfield",
+                  "jersey_number": 28
+                },
+                {
+                  "name": "Baptiste Santamaria",
+                  "position": "Central Midfield",
+                  "jersey_number": 8
+                },
+                {
+                  "name": "Lovro Majer",
+                  "position": "Attacking Midfield",
+                  "jersey_number": 21
+                },
+                {
+                  "name": "Benjamin Bourigeaud",
+                  "position": "Right Wing",
+                  "jersey_number": 14
+                },
+                {
+                  "name": "Kamaldeen Sulemana",
+                  "position": "Left Wing",
+                  "jersey_number": 10
+                },
+                {
+                  "name": "Gaëtan Laborde",
+                  "position": "Striker",
+                  "jersey_number": 24
+                },
+                {
+                  "name": "Romain Salin",
+                  "position": "Goalkeeper",
+                  "jersey_number": 1
+                },
+                {
+                  "name": "Birger Meling",
+                  "position": "Left Back",
+                  "jersey_number": 25
+                },
+                {
+                  "name": "Serhou Guirassy",
+                  "position": "Striker",
+                  "jersey_number": 9
+                },
+                {
+                  "name": "Jeremy Doku",
+                  "position": "Right Wing",
+                  "jersey_number": 11
+                },
+                {
+                  "name": "Flavien Tait",
+                  "position": "Central Midfield",
+                  "jersey_number": 20
+                }
+              ]
+            },
+            {
+              "id": 8,
+              "name": "Nantes",
+              "image_url": "https://upload.wikimedia.org/wikipedia/en/8/8b/FC_Nantes_logo.svg",
+              "players": [
+                {
+                  "name": "Alban Lafont",
+                  "position": "Goalkeeper",
+                  "jersey_number": 1
+                },
+                {
+                  "name": "Fábio",
+                  "position": "Right Back",
+                  "jersey_number": 2
+                },
+                {
+                  "name": "Nicolas Pallois",
+                  "position": "Centre Back",
+                  "jersey_number": 4
+                },
+                {
+                  "name": "Andrei Girotto",
+                  "position": "Centre Back",
+                  "jersey_number": 3
+                },
+                {
+                  "name": "Charles Traoré",
+                  "position": "Left Back",
+                  "jersey_number": 14
+                },
+                {
+                  "name": "Pedro Chirivella",
+                  "position": "Central Midfield",
+                  "jersey_number": 5
+                },
+                {
+                  "name": "Samuel Moutoussamy",
+                  "position": "Central Midfield",
+                  "jersey_number": 18
+                },
+                {
+                  "name": "Randal Kolo Muani",
+                  "position": "Striker",
+                  "jersey_number": 7
+                },
+                {
+                  "name": "Ludovic Blas",
+                  "position": "Right Wing",
+                  "jersey_number": 10
+                },
+                {
+                  "name": "Moses Simon",
+                  "position": "Left Wing",
+                  "jersey_number": 27
+                },
+                {
+                  "name": "Jean-Kévin Augustin",
+                  "position": "Striker",
+                  "jersey_number": 22
+                },
+                {
+                  "name": "Denis Petrić",
+                  "position": "Goalkeeper",
+                  "jersey_number": 30
+                },
+                {
+                  "name": "Sebastien Corchia",
+                  "position": "Right Back",
+                  "jersey_number": 24
+                },
+                {
+                  "name": "Kalifa Coulibaly",
+                  "position": "Striker",
+                  "jersey_number": 19
+                },
+                {
+                  "name": "Mehdi Abeid",
+                  "position": "Central Midfield",
+                  "jersey_number": 11
+                }
+              ]
+            },
+            {
+              "id": 9,
+              "name": "Strasbourg",
+              "image_url": "https://upload.wikimedia.org/wikipedia/en/c/ca/Racing_Club_de_Strasbourg_logo.svg",
+              "players": [
+                {
+                  "name": "Matz Sels",
+                  "position": "Goalkeeper",
+                  "jersey_number": 1
+                },
+                {
+                  "name": "Frédéric Guilbert",
+                  "position": "Right Back",
+                  "jersey_number": 4
+                },
+                {
+                  "name": "Alexander Djiku",
+                  "position": "Centre Back",
+                  "jersey_number": 24
+                },
+                {
+                  "name": "Maxime Le Marchand",
+                  "position": "Centre Back",
+                  "jersey_number": 23
+                },
+                {
+                  "name": "Anthony Caci",
+                  "position": "Left Back",
+                  "jersey_number": 19
+                },
+                {
+                  "name": "Jean-Ricner Bellegarde",
+                  "position": "Central Midfield",
+                  "jersey_number": 17
+                },
+                {
+                  "name": "Ibrahima Sissoko",
+                  "position": "Central Midfield",
+                  "jersey_number": 27
+                },
+                {
+                  "name": "Adrien Thomasson",
+                  "position": "Attacking Midfield",
+                  "jersey_number": 10
+                },
+                {
+                  "name": "Habib Diallo",
+                  "position": "Right Wing",
+                  "jersey_number": 20
+                },
+                {
+                  "name": "Ludovic Ajorque",
+                  "position": "Left Wing",
+                  "jersey_number": 25
+                },
+                {
+                  "name": "Kevin Gameiro",
+                  "position": "Striker",
+                  "jersey_number": 9
+                },
+                {
+                  "name": "Bingourou Kamara",
+                  "position": "Goalkeeper",
+                  "jersey_number": 30
+                },
+                {
+                  "name": "Gerzino Nyamsi",
+                  "position": "Centre Back",
+                  "jersey_number": 22
+                },
+                {
+                  "name": "Sanjin Prcić",
+                  "position": "Central Midfield",
+                  "jersey_number": 14
+                },
+                {
+                  "name": "Jean-Eudes Aholou",
+                  "position": "Central Midfield",
+                  "jersey_number": 6
+                },
+                {
+                  "name": "Dimitri Liénard",
+                  "position": "Right Wing",
+                  "jersey_number": 11
+                },
+                {
+                  "name": "Jean-Kevin Augustin",
+                  "position": "Striker",
+                  "jersey_number": 18
+                }
+              ]
+            },
+            {
+              "id": 10,
+              "name": "Montpellier",
+              "image_url": "https://upload.wikimedia.org/wikipedia/en/f/f2/Montpellier_HSC_logo.svg",
+              "players": [
+                {
+                  "name": "Jonas Omlin",
+                  "position": "Goalkeeper",
+                  "jersey_number": 1
+                },
+                {
+                  "name": "Arnaud Souquet",
+                  "position": "Right Back",
+                  "jersey_number": 2
+                },
+                {
+                  "name": "Matheus Thuler",
+                  "position": "Centre Back",
+                  "jersey_number": 26
+                },
+                {
+                  "name": "Mamadou Sakho",
+                  "position": "Centre Back",
+                  "jersey_number": 75
+                },
+                {
+                  "name": "Nicolas Cozza",
+                  "position": "Left Back",
+                  "jersey_number": 31
+                },
+                {
+                  "name": "Jordan Ferri",
+                  "position": "Central Midfield",
+                  "jersey_number": 12
+                },
+                {
+                  "name": "Joris Chotard",
+                  "position": "Central Midfield",
+                  "jersey_number": 13
+                },
+                {
+                  "name": "Florent Mollet",
+                  "position": "Attacking Midfield",
+                  "jersey_number": 25
+                },
+                {
+                  "name": "Stephy Mavididi",
+                  "position": "Right Wing",
+                  "jersey_number": 10
+                },
+                {
+                  "name": "Sepe Elye Wahi",
+                  "position": "Left Wing",
+                  "jersey_number": 21
+                },
+                {
+                  "name": "Valère Germain",
+                  "position": "Striker",
+                  "jersey_number": 9
+                },
+                {
+                  "name": "Dimitry Bertaud",
+                  "position": "Goalkeeper",
+                  "jersey_number": 16
+                },
+                {
+                  "name": "Thuler",
+                  "position": "Centre Back",
+                  "jersey_number": 26
+                },
+                {
+                  "name": "Leo Leroy",
+                  "position": "Central Midfield",
+                  "jersey_number": 18
+                },
+                {
+                  "name": "Teji Savanier",
+                  "position": "Central Midfield",
+                  "jersey_number": 11
+                },
+                {
+                  "name": "Arnaud Nordin",
+                  "position": "Right Wing",
+                  "jersey_number": 7
+                },
+                {
+                  "name": "Mihailo Ristić",
+                  "position": "Left Wing",
+                  "jersey_number": 26
+                },
+                {
+                  "name": "Beni Makouana",
+                  "position": "Striker",
+                  "jersey_number": 22
+                }
+              ]
+            },
+            {
+              "id": 11,
+              "name": "Reims",
+              "image_url": "https://upload.wikimedia.org/wikipedia/en/7/70/Stade_de_Reims_logo.svg",
+              "players": [
+                {
+                  "name": "Predrag Rajković",
+                  "position": "Goalkeeper",
+                  "jersey_number": 1
+                },
+                {
+                  "name": "Thomas Foket",
+                  "position": "Right Back",
+                  "jersey_number": 32
+                },
+                {
+                  "name": "Wout Faes",
+                  "position": "Centre Back",
+                  "jersey_number": 2
+                },
+                {
+                  "name": "Yunis Abdelhamid",
+                  "position": "Centre Back",
+                  "jersey_number": 5
+                },
+                {
+                  "name": "Ghislain Konan",
+                  "position": "Left Back",
+                  "jersey_number": 3
+                },
+                {
+                  "name": "Xavier Chavalerin",
+                  "position": "Central Midfield",
+                  "jersey_number": 7
+                },
+                {
+                  "name": "Moreto Cassama",
+                  "position": "Central Midfield",
+                  "jersey_number": 23
+                },
+                {
+                  "name": "Ilan Kebbal",
+                  "position": "Attacking Midfield",
+                  "jersey_number": 20
+                },
+                {
+                  "name": "Nathanaël Mbuku",
+                  "position": "Right Wing",
+                  "jersey_number": 21
+                },
+                {
+                  "name": "Mathieu Cafaro",
+                  "position": "Left Wing",
+                  "jersey_number": 24
+                },
+                {
+                  "name": "El Bilal Touré",
+                  "position": "Striker",
+                  "jersey_number": 15
+                },
+                {
+                  "name": "Yehvann Diouf",
+                  "position": "Goalkeeper",
+                  "jersey_number": 16
+                },
+                {
+                  "name": "Dario Maresic",
+                  "position": "Centre Back",
+                  "jersey_number": 29
+                },
+                {
+                  "name": "Fode Doucoure",
+                  "position": "Centre Back",
+                  "jersey_number": 33
+                },
+                {
+                  "name": "Valon Berisha",
+                  "position": "Central Midfield",
+                  "jersey_number": 14
+                },
+                {
+                  "name": "Kaj Sierhuis",
+                  "position": "Striker",
+                  "jersey_number": 9
+                },
+                {
+                  "name": "Anastasios Donis",
+                  "position": "Right Wing",
+                  "jersey_number": 17
+                },
+                {
+                  "name": "Alexis Flips",
+                  "position": "Left Wing",
+                  "jersey_number": 31
+                }
+              ]
+            },
         {
           "id": 12,
           "name": "Lens",
           "image_url": "https://upload.wikimedia.org/wikipedia/en/f/f1/RC_Lens_logo.svg",
-          "players": []
+          "players": [
+            {
+              "name": "Jean-Louis Leca",
+              "position": "Goalkeeper",
+              "jersey_number": 16
+            },
+            {
+              "name": "Jonathan Gradit",
+              "position": "Right Back",
+              "jersey_number": 24
+            },
+            {
+              "name": "Kevin Danso",
+              "position": "Centre Back",
+              "jersey_number": 4
+            },
+            {
+              "name": "Facundo Medina",
+              "position": "Centre Back",
+              "jersey_number": 14
+            },
+            {
+              "name": "Massadio Haidara",
+              "position": "Left Back",
+              "jersey_number": 21
+            },
+            {
+              "name": "Seko Fofana",
+              "position": "Central Midfield",
+              "jersey_number": 8
+            },
+            {
+              "name": "Yannick Cahuzac",
+              "position": "Central Midfield",
+              "jersey_number": 18
+            },
+            {
+              "name": "Gael Kakuta",
+              "position": "Attacking Midfield",
+              "jersey_number": 10
+            },
+            {
+              "name": "Florian Sotoca",
+              "position": "Right Wing",
+              "jersey_number": 7
+            },
+            {
+              "name": "Ignatius Ganago",
+              "position": "Left Wing",
+              "jersey_number": 15
+            },
+            {
+              "name": "Arnaud Kalimuendo",
+              "position": "Striker",
+              "jersey_number": 9
+            },
+            {
+              "name": "Wuilker Faríñez",
+              "position": "Goalkeeper",
+              "jersey_number": 30
+            },
+            {
+              "name": "Cheick Traoré",
+              "position": "Right Back",
+              "jersey_number": 12
+            },
+            {
+              "name": "Steven Fortes",
+              "position": "Centre Back",
+              "jersey_number": 2
+            },
+            {
+              "name": "Tony Mauricio",
+              "position": "Central Midfield",
+              "jersey_number": 22
+            },
+            {
+              "name": "Corentin Jean",
+              "position": "Right Wing",
+              "jersey_number": 25
+            },
+            {
+              "name": "Simon Banza",
+              "position": "Striker",
+              "jersey_number": 23
+            }
+          ]
         },
         {
           "id": 13,
           "name": "Angers",
           "image_url": "https://upload.wikimedia.org/wikipedia/en/c/cd/Angers_SCO_logo.svg",
-          "players": []
+          "players": [
+            {
+              "name": "Paul Bernardoni",
+              "position": "Goalkeeper",
+              "jersey_number": 1
+            },
+            {
+              "name": "Vincent Manceau",
+              "position": "Right Back",
+              "jersey_number": 29
+            },
+            {
+              "name": "Ismael Traoré",
+              "position": "Centre Back",
+              "jersey_number": 8
+            },
+            {
+              "name": "Romain Thomas",
+              "position": "Centre Back",
+              "jersey_number": 24
+            },
+            {
+              "name": "Souleyman Doumbia",
+              "position": "Left Back",
+              "jersey_number": 3
+            },
+            {
+              "name": "Thomas Mangani",
+              "position": "Central Midfield",
+              "jersey_number": 5
+            },
+            {
+              "name": "Angelo Fulgini",
+              "position": "Central Midfield",
+              "jersey_number": 10
+            },
+            {
+              "name": "Sofiane Boufal",
+              "position": "Right Wing",
+              "jersey_number": 7
+            },
+            {
+              "name": "Jimmy Cabot",
+              "position": "Left Wing",
+              "jersey_number": 11
+            },
+            {
+              "name": "Stephane Bahoken",
+              "position": "Striker",
+              "jersey_number": 19
+            },
+            {
+              "name": "Mohamed-Ali Cho",
+              "position": "Striker",
+              "jersey_number": 21
+            },
+            {
+              "name": "Danijel Petkovic",
+              "position": "Goalkeeper",
+              "jersey_number": 30
+            },
+            {
+              "name": "Enzo Ebosse",
+              "position": "Centre Back",
+              "jersey_number": 6
+            },
+            {
+              "name": "Mathias Pereira Lage",
+              "position": "Central Midfield",
+              "jersey_number": 27
+            },
+            {
+              "name": "Pierrick Capelle",
+              "position": "Left Wing",
+              "jersey_number": 15
+            }
+          ]
         },
         {
           "id": 14,
           "name": "Bordeaux",
           "image_url": "https://upload.wikimedia.org/wikipedia/en/0/0c/FC_Girondins_de_Bordeaux_logo.svg",
-          "players": []
+          "players": [
+            {
+              "name": "Benoît Costil",
+              "position": "Goalkeeper",
+              "jersey_number": 1
+            },
+            {
+              "name": "Enock Kwateng",
+              "position": "Right Back",
+              "jersey_number": 25
+            },
+            {
+              "name": "Laurent Koscielny",
+              "position": "Centre Back",
+              "jersey_number": 6
+            },
+            {
+              "name": "Edson Mexer",
+              "position": "Centre Back",
+              "jersey_number": 4
+            },
+            {
+              "name": "Gideon Mensah",
+              "position": "Left Back",
+              "jersey_number": 14
+            },
+            {
+              "name": "Otávio",
+              "position": "Central Midfield",
+              "jersey_number": 5
+            },
+            {
+              "name": "Jean Onana",
+              "position": "Central Midfield",
+              "jersey_number": 8
+            },
+            {
+              "name": "Rémi Oudin",
+              "position": "Right Wing",
+              "jersey_number": 28
+            },
+            {
+              "name": "Samuel Kalu",
+              "position": "Left Wing",
+              "jersey_number": 10
+            },
+            {
+              "name": "Hwang Ui-jo",
+              "position": "Striker",
+              "jersey_number": 18
+            },
+            {
+              "name": "Josh Maja",
+              "position": "Striker",
+              "jersey_number": 27
+            },
+            {
+              "name": "Gaëtan Poussin",
+              "position": "Goalkeeper",
+              "jersey_number": 16
+            },
+            {
+              "name": "Paul Baysse",
+              "position": "Centre Back",
+              "jersey_number": 24
+            },
+            {
+              "name": "Stian Gregersen",
+              "position": "Centre Back",
+              "jersey_number": 3
+            },
+            {
+              "name": "Tom Lacoux",
+              "position": "Central Midfield",
+              "jersey_number": 20
+            },
+            {
+              "name": "Yacine Adli",
+              "position": "Attacking Midfield",
+              "jersey_number": 19
+            },
+            {
+              "name": "Alberth Elis",
+              "position": "Right Wing",
+              "jersey_number": 29
+            },
+            {
+              "name": "Javairô Dilrosun",
+              "position": "Left Wing",
+              "jersey_number": 21
+            },
+            {
+              "name": "Sekou Mara",
+              "position": "Striker",
+              "jersey_number": 11
+            }
+          ]
         },
         {
           "id": 15,
           "name": "Metz",
           "image_url": "https://upload.wikimedia.org/wikipedia/en/6/6b/FC_Metz_2021_logo.svg",
-          "players": []
+          "players": [
+            {
+              "name": "Alexandre Oukidja",
+              "position": "Goalkeeper",
+              "jersey_number": 16
+            },
+            {
+              "name": "Fabien Centonze",
+              "position": "Right Back",
+              "jersey_number": 18
+            },
+            {
+              "name": "Dylan Bronn",
+              "position": "Centre Back",
+              "jersey_number": 2
+            },
+            {
+              "name": "Boubakar Kouyaté",
+              "position": "Centre Back",
+              "jersey_number": 23
+            },
+            {
+              "name": "Thomas Delaine",
+              "position": "Left Back",
+              "jersey_number": 17
+            },
+            {
+              "name": "Vincent Pajot",
+              "position": "Central Midfield",
+              "jersey_number": 15
+            },
+            {
+              "name": "Kevin N'Doram",
+              "position": "Central Midfield",
+              "jersey_number": 6
+            },
+            {
+              "name": "Farid Boulaya",
+              "position": "Attacking Midfield",
+              "jersey_number": 10
+            },
+            {
+              "name": "Papa Ndiaga Yade",
+              "position": "Right Wing",
+              "jersey_number": 26
+            },
+            {
+              "name": "Opa Nguette",
+              "position": "Left Wing",
+              "jersey_number": 11
+            },
+            {
+              "name": "Ibrahima Niane",
+              "position": "Striker",
+              "jersey_number": 7
+            },
+            {
+              "name": "Marc-Aurèle Caillard",
+              "position": "Goalkeeper",
+              "jersey_number": 1
+            },
+            {
+              "name": "John Boye",
+              "position": "Centre Back",
+              "jersey_number": 21
+            },
+            {
+              "name": "Warren Tchimbembé",
+              "position": "Central Midfield",
+              "jersey_number": 4
+            },
+            {
+              "name": "Mamadou Fofana",
+              "position": "Defensive Midfield",
+              "jersey_number": 5
+            },
+            {
+              "name": "Thierry Ambrose",
+              "position": "Right Wing",
+              "jersey_number": 19
+            },
+            {
+              "name": "Lamine Gueye",
+              "position": "Left Wing",
+              "jersey_number": 20
+            },
+            {
+              "name": "Habib Maïga",
+              "position": "Central Midfield",
+              "jersey_number": 19
+            },
+            {
+              "name": "Vagner",
+              "position": "Left Wing",
+              "jersey_number": 27
+            }
+          ]
         },
         {
           "id": 16,
           "name": "Saint-Étienne",
           "image_url": "https://upload.wikimedia.org/wikipedia/en/6/66/AS_Saint-Étienne_logo.svg",
-          "players": []
+          "players": [
+            {
+              "name": "Etienne Green",
+              "position": "Goalkeeper",
+              "jersey_number": 42
+            },
+            {
+              "name": "Mathieu Debuchy",
+              "position": "Right Back",
+              "jersey_number": 26
+            },
+            {
+              "name": "Harold Moukoudi",
+              "position": "Centre Back",
+              "jersey_number": 2
+            },
+            {
+              "name": "Timothée Kolodziejczak",
+              "position": "Centre Back",
+              "jersey_number": 5
+            },
+            {
+              "name": "Miguel Trauco",
+              "position": "Left Back",
+              "jersey_number": 13
+            },
+            {
+              "name": "Mahdi Camara",
+              "position": "Central Midfield",
+              "jersey_number": 8
+            },
+            {
+              "name": "Yvan Neyou",
+              "position": "Central Midfield",
+              "jersey_number": 19
+            },
+            {
+              "name": "Ryad Boudebouz",
+              "position": "Attacking Midfield",
+              "jersey_number": 7
+            },
+            {
+              "name": "Romain Hamouma",
+              "position": "Right Wing",
+              "jersey_number": 21
+            },
+            {
+              "name": "Denis Bouanga",
+              "position": "Left Wing",
+              "jersey_number": 20
+            },
+            {
+              "name": "Wahbi Khazri",
+              "position": "Striker",
+              "jersey_number": 10
+            },
+            {
+              "name": "Jessy Moulin",
+              "position": "Goalkeeper",
+              "jersey_number": 30
+            },
+            {
+              "name": "Saidou Sow",
+              "position": "Centre Back",
+              "jersey_number": 33
+            },
+            {
+              "name": "Jean-Philippe Krasso",
+              "position": "Striker",
+              "jersey_number": 14
+            },
+            {
+              "name": "Lucas Gourna-Douath",
+              "position": "Central Midfield",
+              "jersey_number": 6
+            },
+            {
+              "name": "Arnaud Nordin",
+              "position": "Right Wing",
+              "jersey_number": 18
+            },
+            {
+              "name": "Yvann Maçon",
+              "position": "Left Back",
+              "jersey_number": 27
+            },
+            {
+              "name": "Charles Abi",
+              "position": "Striker",
+              "jersey_number": 31
+            },
+            {
+              "name": "Aimen Moueffek",
+              "position": "Central Midfield",
+              "jersey_number": 28
+            }
+          ]
         },
         {
           "id": 17,
           "name": "Troyes",
           "image_url": "https://upload.wikimedia.org/wikipedia/en/c/c3/ES_Troyes_AC_logo.svg",
-          "players": []
+          "players": [
+            {
+              "name": "Gauthier Gallon",
+              "position": "Goalkeeper",
+              "jersey_number": 30
+            },
+            {
+              "name": "Issa Kaboré",
+              "position": "Right Back",
+              "jersey_number": 29
+            },
+            {
+              "name": "Adil Rami",
+              "position": "Centre Back",
+              "jersey_number": 23
+            },
+            {
+              "name": "Erik Palmer-Brown",
+              "position": "Centre Back",
+              "jersey_number": 4
+            },
+            {
+              "name": "Youssouf Koné",
+              "position": "Left Back",
+              "jersey_number": 3
+            },
+            {
+              "name": "Tristan Dingomé",
+              "position": "Central Midfield",
+              "jersey_number": 5
+            },
+            {
+              "name": "Rominigue Kouamé",
+              "position": "Central Midfield",
+              "jersey_number": 6
+            },
+            {
+              "name": "Xavier Chavalerin",
+              "position": "Attacking Midfield",
+              "jersey_number": 24
+            },
+            {
+              "name": "Renaud Ripart",
+              "position": "Right Wing",
+              "jersey_number": 20
+            },
+            {
+              "name": "Mama Baldé",
+              "position": "Left Wing",
+              "jersey_number": 25
+            },
+            {
+              "name": "Ike Ugbo",
+              "position": "Striker",
+              "jersey_number": 9
+            },
+            {
+              "name": "Jessy Moulin",
+              "position": "Goalkeeper",
+              "jersey_number": 30
+            },
+            {
+              "name": "Yoann Salmier",
+              "position": "Centre Back",
+              "jersey_number": 17
+            },
+            {
+              "name": "Karim Azamoum",
+              "position": "Central Midfield",
+              "jersey_number": 10
+            },
+            {
+              "name": "Yasser Larouci",
+              "position": "Left Back",
+              "jersey_number": 21
+            },
+            {
+              "name": "Wilson Odobert",
+              "position": "Right Wing",
+              "jersey_number": 18
+            },
+            {
+              "name": "Levi Lumeka",
+              "position": "Left Wing",
+              "jersey_number": 22
+            },
+            {
+              "name": "Hyun-Jun Suk",
+              "position": "Striker",
+              "jersey_number": 7
+            },
+            {
+              "name": "Giulian Biancone",
+              "position": "Right Back",
+              "jersey_number": 4
+            }
+          ]
         },
         {
           "id": 18,
           "name": "Brest",
           "image_url": "https://upload.wikimedia.org/wikipedia/en/2/2a/Stade_Brestois_29_logo.svg",
-          "players": []
+          "players": [
+            {
+              "name": "Marco Bizot",
+              "position": "Goalkeeper",
+              "jersey_number": 40
+            },
+            {
+              "name": "Ronaël Pierre-Gabriel",
+              "position": "Right Back",
+              "jersey_number": 18
+            },
+            {
+              "name": "Brendan Chardonnet",
+              "position": "Centre Back",
+              "jersey_number": 5
+            },
+            {
+              "name": "Lilian Brassier",
+              "position": "Centre Back",
+              "jersey_number": 3
+            },
+            {
+              "name": "Jere Uronen",
+              "position": "Left Back",
+              "jersey_number": 20
+            },
+            {
+              "name": "Haris Belkebla",
+              "position": "Central Midfield",
+              "jersey_number": 7
+            },
+            {
+              "name": "Lucien Agoumé",
+              "position": "Central Midfield",
+              "jersey_number": 10
+            },
+            {
+              "name": "Franck Honorat",
+              "position": "Right Wing",
+              "jersey_number": 9
+            },
+            {
+              "name": "Romain Faivre",
+              "position": "Left Wing",
+              "jersey_number": 14
+            },
+            {
+              "name": "Steve Mounié",
+              "position": "Striker",
+              "jersey_number": 15
+            },
+            {
+              "name": "Irvin Cardona",
+              "position": "Striker",
+              "jersey_number": 14
+            },
+            {
+              "name": "Gautier Larsonneur",
+              "position": "Goalkeeper",
+              "jersey_number": 1
+            },
+            {
+              "name": "Jean-Kévin Duverne",
+              "position": "Right Back",
+              "jersey_number": 2
+            },
+            {
+              "name": "Hugo Magnetti",
+              "position": "Central Midfield",
+              "jersey_number": 8
+            },
+            {
+              "name": "Jérémy Le Douaron",
+              "position": "Left Wing",
+              "jersey_number": 22
+            }
+          ]
         },
         {
           "id": 19,
           "name": "Clermont",
           "image_url": "https://upload.wikimedia.org/wikipedia/en/e/e3/Clermont_Foot_logo.svg",
-          "players": []
+          "players": [
+            {
+              "name": "Arthur Desmas",
+              "position": "Goalkeeper",
+              "jersey_number": 1
+            },
+            {
+              "name": "Akim Zedadka",
+              "position": "Right Back",
+              "jersey_number": 20
+            },
+            {
+              "name": "Florent Ogier",
+              "position": "Centre Back",
+              "jersey_number": 21
+            },
+            {
+              "name": "Cedric Hountondji",
+              "position": "Centre Back",
+              "jersey_number": 4
+            },
+            {
+              "name": "Vital N'Simba",
+              "position": "Left Back",
+              "jersey_number": 12
+            },
+            {
+              "name": "Johan Gastien",
+              "position": "Central Midfield",
+              "jersey_number": 25
+            },
+            {
+              "name": "Saif-Eddine Khaoui",
+              "position": "Central Midfield",
+              "jersey_number": 6
+            },
+            {
+              "name": "Jason Berthomier",
+              "position": "Attacking Midfield",
+              "jersey_number": 8
+            },
+            {
+              "name": "Jim Allevinah",
+              "position": "Right Wing",
+              "jersey_number": 11
+            },
+            {
+              "name": "Jodel Dossou",
+              "position": "Left Wing",
+              "jersey_number": 24
+            },
+            {
+              "name": "Mohamed Bayo",
+              "position": "Striker",
+              "jersey_number": 27
+            },
+            {
+              "name": "Ouparine Djoco",
+              "position": "Goalkeeper",
+              "jersey_number": 40
+            },
+            {
+              "name": "Ariel Mendy",
+              "position": "Left Back",
+              "jersey_number": 3
+            },
+            {
+              "name": "Maxime Gonalons",
+              "position": "Central Midfield",
+              "jersey_number": 12
+            },
+            {
+              "name": "Elbasan Rashani",
+              "position": "Left Wing",
+              "jersey_number": 18
+            },
+            {
+              "name": "Salis Abdul Samed",
+              "position": "Central Midfield",
+              "jersey_number": 19
+            }
+          ]
         },
         {
           "id": 20,
           "name": "Lorient",
           "image_url": "https://upload.wikimedia.org/wikipedia/en/6/6e/FC_Lorient_logo.svg",
-          "players": []
+          "players": [
+            {
+              "name": "Paul Nardi",
+              "position": "Goalkeeper",
+              "jersey_number": 30
+            },
+            {
+              "name": "Houboulang Mendes",
+              "position": "Right Back",
+              "jersey_number": 17
+            },
+            {
+              "name": "Julien Laporte",
+              "position": "Centre Back",
+              "jersey_number": 15
+            },
+            {
+              "name": "Moritz Jenz",
+              "position": "Centre Back",
+              "jersey_number": 3
+            },
+            {
+              "name": "Vincent Le Goff",
+              "position": "Left Back",
+              "jersey_number": 25
+            },
+            {
+              "name": "Fabien Lemoine",
+              "position": "Central Midfield",
+              "jersey_number": 18
+            },
+            {
+              "name": "Thomas Monconduit",
+              "position": "Central Midfield",
+              "jersey_number": 23
+            },
+            {
+              "name": "Enzo Le Fée",
+              "position": "Attacking Midfield",
+              "jersey_number": 10
+            },
+            {
+              "name": "Armand Lauriente",
+              "position": "Right Wing",
+              "jersey_number": 28
+            },
+            {
+              "name": "Stéphane Diarra",
+              "position": "Left Wing",
+              "jersey_number": 11
+            },
+            {
+              "name": "Terem Moffi",
+              "position": "Striker",
+              "jersey_number": 13
+            },
+            {
+              "name": "Matthieu Dreyer",
+              "position": "Goalkeeper",
+              "jersey_number": 40
+            },
+            {
+              "name": "Jérémy Morel",
+              "position": "Centre Back",
+              "jersey_number": 21
+            },
+            {
+              "name": "Quentin Boisgard",
+              "position": "Central Midfield",
+              "jersey_number": 6
+            },
+            {
+              "name": "Pierre-Yves Hamel",
+              "position": "Striker",
+              "jersey_number": 29
+            },
+            {
+              "name": "Laurent Abergel",
+              "position": "Central Midfield",
+              "jersey_number": 19
+            }
+          ]
         }
       ]
     },
